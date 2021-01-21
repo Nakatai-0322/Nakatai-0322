@@ -1,19 +1,11 @@
-Nakatai_0322  
-## はじめに  
+## はじめに
 どうも，皆さんはじめまして。
 
-「Freeserver」運営のNakataiと申します。
+Nakataiと申します。
 
-私は，現在生活鯖のWiki担当(Admin鯖ではWiki Editor)をさせてもらってます！
+私は，現在 [Freeserver](https://www.freeserver.pro)のWiki(広報？)担当をさせてもらってます！
 
-好きなこと  
-歌うこと
-
-ゲームすること
-
-宜しくお願いします！
-
-自己紹介  
+## 自己紹介
 名称:Nakatai
 
 性別:男性
@@ -24,16 +16,25 @@ SM:ドM（変態）
 
 出身地・居住地:岐阜県（よく田舎者をバカにされる...）
 
+身長:169cm,体重50Kg
+
 ネイティブ言語:日本語
 
-関わりのある言語:英語（a litle)，ドイツ語（一時期学習してたけど，もう忘れた。）
+話せる言語:英語
 
-出せる声:最低 75Hz レ#2ぐらい 最高 550Hz レ#3ぐらい 低いのは苦手ですが，高い方は得意です。
+記述したことのある言語:Markdown,Java,HTML
 
-「感電」歌ってみた動画 （声質の参考にしてね。(?)）
+出せる声:最低 75Hz レ#2ぐらい 最高 550Hz レ#3ぐらい 低い方は苦手ですが，高い方は得意です。
 
+[「感電」歌ってみた動画](https://youtu.be/Y1RYxwiA9hw) （声質の参考にしてね。)(日本語不自由）
 
-連絡先  
+## 経歴
+| 年   | 月  | 日  | 内容                  |
+| ---- | --- | --- | --------------------- |
+| 2020 | 10  | 8   | Builderとして運営就任 |
+| 2020 | 11  | 9   | Wiki Editorへ転向     |
+
+## 連絡先
 Twitter:https://twitter.com/Nakatai0322
 
 プロフ:https://profcard.info/u/msr0FgH8afOQZ05dfUaS6FXoKlL2
@@ -42,6 +43,6 @@ Twitter:https://twitter.com/Nakatai0322
 
 GitHub:https://github.com/Nakatai-0322
 
-Discord:Nakatai_0322#6872
+Discord:`Nakatai_0322#6872`
 
-MCID:Nakatai_0322 
+MCID:`Nakatai_0322`
