@@ -3,7 +3,7 @@
 
 Nakataiと申します。
 
-私は，現在 [Freeserver](https://www.freeserver.pro)のWiki(広報？)担当をさせてもらってます！
+私は，現在 [FREESERVER](https://www.freeserver.pro)のWiki(広報？)担当をさせてもらってます！
 
 ## 自己紹介
 名称:Nakatai
