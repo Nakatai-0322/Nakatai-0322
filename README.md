@@ -1,9 +1,11 @@
+# Nakatai_0322
+
 ## はじめに
 どうも，皆さんはじめまして。
 
-Nakataiと申します。
+「[FREESERVER](https://www.freeserver.pro)」運営のNakataiと申します。
 
-私は，現在 [FREESERVER](https://www.freeserver.pro)のWiki(広報？)担当をさせてもらってます！
+私は，現在Wiki(広報)担当(Adminの集いではWiki Editor表記)をさせてもらってます！
 
 ## 自己紹介
 名称:Nakatai
@@ -12,11 +14,13 @@ Nakataiと申します。
 
 誕生日:3月22日 牡羊座
 
-SM:ドM（変態）
+血液型:A型(RH+)
 
-出身地・居住地:岐阜県（よく田舎者をバカにされる...）
+SM:ドM
 
-身長:169cm,体重50Kg
+出身地・居住地:岐阜県のどっか（よく田舎者をバカにされる...）
+
+身長:170cm,体重55Kg
 
 ネイティブ言語:日本語
 
@@ -26,13 +30,41 @@ SM:ドM（変態）
 
 出せる声:最低 75Hz レ#2ぐらい 最高 550Hz レ#3ぐらい 低い方は苦手ですが，高い方は得意です。
 
-[「感電」歌ってみた動画](https://youtu.be/Y1RYxwiA9hw) （声質の参考にしてね。)(日本語不自由）
+[「感電」歌ってみた動画](https://youtu.be/qUSC_YOTCmk) （声質の参考にしてね。)(日本語不自由）
 
-## FREESERVER内での経歴
+## 経歴
 | 年   | 月  | 日  | 内容                  |
 | ---- | --- | --- | --------------------- |
 | 2020 | 10  | 8   | Builderとして運営就任 |
 | 2020 | 11  | 9   | Wiki Editorへ転向     |
+## PC環境
+### メインPC(自作PC)
+> **CPU** AMD Ryzen7 3700X
+> 
+> **GPU** ASUS PH-RTX2060-6G(NVIDIA RTX2060)
+> 
+> **マザボ** MSI MPG X570 GAMING PLUS
+> 
+> **メモリ** A-DATA DDR4-3200 16GB
+> 
+> **SSD** CFD CSSD-M2M5GEG1VNE
+> 
+> **BDドライブ** Pioneer BD-RW BDR-212BK
+> 
+> **電源** 玄人志向 KRPW-GK750W/90+
+> 
+> **キーボード** Steelseries APEX3
+> 
+> **マウス** Logicool G203 LIGHTSYNC Gaming Mouse
+### サブPC（ボロノートパソコン）
+> **CPU** Intel Corei5 @M520 2.4GHz
+> 
+> **GPU** おんぼーど
+> 
+> **メモリ** SAMSUNG DDR3 4GB
+> 
+> **HDD** 256GB
+> 
 
 ## 連絡先
 Twitter:https://twitter.com/Nakatai0322
