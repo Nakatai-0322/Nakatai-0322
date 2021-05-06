@@ -3,9 +3,7 @@
 ## はじめに
 どうも，皆さんはじめまして。
 
-「[FREESERVER](https://www.freeserver.pro)」運営のNakataiと申します。
-
-私は，現在Wiki(広報)担当(Adminの集いではWiki Editor表記)をさせてもらってます！
+これは，私の自己紹介です。
 
 ## 自己紹介
 名称:Nakatai
