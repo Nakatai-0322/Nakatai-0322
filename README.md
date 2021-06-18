@@ -1,9 +1,13 @@
 # Nakatai_0322
 
 ## はじめに
-どうも，皆さんはじめまして。
+Hi!everyone!
 
-これは，私の自己紹介です。
+I'm Nakatai.
+
+I am a gamer and Markdown programmer.
+
+Nice to meet you!
 
 ## 自己紹介
 名称:Nakatai
@@ -27,6 +31,26 @@ SM:ドM
 記述したことのある言語:Markdown,Java,HTML
 
 出せる声:最低 75Hz レ#2ぐらい 最高 550Hz レ#3ぐらい 低い方は苦手ですが，高い方は得意です。
+
+## 所属団体
+FREESERVER:
+
+ 媒体:Minecraftサーバー・Discord
+ 連絡:Twitter`@FREESERVERP`
+
+情報共有サーバー / Information Sharing Server:
+
+ 媒体:Discord
+ 連絡:Twitter`@sharing_server`
+
+𝐙𝐨𝐦𝐙𝐨𝐧𝐞:
+ 媒体:Minecraftサーバー・Discord
+ 連絡:Twitter`@eonRdvGDV8OCMrH`
+
+Midorin Network Japan:
+ 媒体:Minecraftサーバー・Discord
+ 連絡:-
+
 ## PC環境
 ### メインPC(自作PC)
 > **CPU** AMD Ryzen7 3700X
