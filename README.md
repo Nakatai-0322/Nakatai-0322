@@ -32,6 +32,11 @@ SM:ドM
 
 出せる声:最低 75Hz レ#2ぐらい 最高 550Hz レ#3ぐらい 低い方は苦手ですが，高い方は得意です。
 
+## GitHubプロフィール
+
+[![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 所属団体
 FREESERVER:
 
