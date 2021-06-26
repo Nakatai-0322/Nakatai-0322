@@ -36,6 +36,7 @@ SM:ドM
 
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Nakatai's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakatai-0322)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 所属団体
 FREESERVER:
