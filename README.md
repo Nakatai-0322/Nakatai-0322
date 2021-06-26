@@ -1,11 +1,11 @@
 # Nakatai_0322
 
 ## はじめに
-Hi!everyone!
+Hi! everyone!
 
 I'm Nakatai.
 
-I am a gamer and Markdown programmer.
+I am a gamer and very weak programmer.
 
 Nice to meet you!
 
