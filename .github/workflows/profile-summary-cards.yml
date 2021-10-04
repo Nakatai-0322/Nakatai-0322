@@ -3,7 +3,6 @@ name: GitHub-Profile-Summary-Cards
 on:
   repository_dispatch:
     types: [test_trigger]
-  workflow_dispatch:
 
 jobs:
   build:
