@@ -44,10 +44,10 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_repositories: yes
-          plugin_repositories_featured: freeserverproject/freeserver-wiki, Nakatai-0322/Nakatai-0322  # List of repositories you want to feature
+          plugin_repositories_featured: freeserverproject/freeserver-wiki, Nakatai-0322/Nakatai-0322
           plugin_rss: yes
-          plugin_rss_source: https://nakatai-0322.hatenablog.jp/rss  # RSS feed
-          plugin_rss_limit: 6                                  # Limit to 6 items
+          plugin_rss_source: https://nakatai-0322.hatenablog.jp/rss
+          plugin_rss_limit: 6
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
