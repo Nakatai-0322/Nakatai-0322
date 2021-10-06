@@ -6,6 +6,13 @@ on:
     types: [test_trigger]
   schedule:
     - cron: '0 10,12,20 * * *'
+  workflow_run:
+    workflows:
+      - Main
+    branches:
+      - main
+    types: 
+      - completed
 
 jobs:
   build:
