@@ -87,9 +87,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 **🐱 My GitHub Data** 
 
-> 🏆 510 Contributions in the Year 2021
+> 🏆 515 Contributions in the Year 2021
  > 
-> 📦 43.4 kB Used in GitHub's Storage 
+> 📦 50.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
