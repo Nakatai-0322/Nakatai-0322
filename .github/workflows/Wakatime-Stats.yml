@@ -1,6 +1,7 @@
 name: WakaTime-Stats
 
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [test_trigger]
 
