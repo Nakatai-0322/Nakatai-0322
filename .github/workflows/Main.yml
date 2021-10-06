@@ -59,7 +59,7 @@ jobs:
           BRANCH: "main"
           COMMIT_MSG: "自動でコーディングステータスをアップデートしました。:floppy_disk:"
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
