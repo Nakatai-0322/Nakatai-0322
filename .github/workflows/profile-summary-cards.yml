@@ -15,4 +15,4 @@ jobs:
         env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Nakatai-0322
