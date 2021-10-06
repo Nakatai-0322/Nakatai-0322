@@ -4,7 +4,12 @@
 
 - Links
 
-<a href="https://nakatai.ga"><img src="https://camo.githubusercontent.com/31ca547298603fcad628ec15136c30aab05ac34e3d120cc464faa3196c628e9f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3536352f3536353532372e737667" width="50"></a> <a href="https://nakatai0322.wordpress.com"><img src="https://i.imgur.com/HrGRBcm.png" width="50"></a>
+<a href="https://nakatai.ga">
+    <img src="https://camo.githubusercontent.com/31ca547298603fcad628ec15136c30aab05ac34e3d120cc464faa3196c628e9f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3536352f3536353532372e737667" width="50">
+</a>
+<a href="https://nakatai-0322.hatenablog.jp/">
+    <img src="https://i.imgur.com/HrGRBcm.png" width="50">
+</a>
 <a href="https://dev.to/nakatai_0322"><img src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" width="50"></a>
 <a href="https://w.wiki/3Hp2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"></a>
 
