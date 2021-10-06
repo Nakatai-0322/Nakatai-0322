@@ -1,6 +1,7 @@
 # Nakatai_0322
 
 <img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
+
 - Links
 
 <a href="https://nakatai.ga"><img src="https://camo.githubusercontent.com/31ca547298603fcad628ec15136c30aab05ac34e3d120cc464faa3196c628e9f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3536352f3536353532372e737667" width="50"></a> <a href="https://nakatai0322.wordpress.com"><img src="https://i.imgur.com/HrGRBcm.png" width="50"></a>
@@ -8,6 +9,7 @@
 <a href="https://w.wiki/3Hp2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"></a>
 
 ## はじめに
+
 Hi! everyone!
 
 I'm Nakatai.
@@ -16,7 +18,7 @@ Nice to meet you!
 
 ## Skills
 
-### I can write/use...(I'm Not Perfect)
+### I can write/use...↓(I'm Not Perfect)
 
 <a href="https://w.wiki/3PyA"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50" ></a>
 <a href="https://w.wiki/3Q2Z"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"></a>
@@ -24,14 +26,13 @@ Nice to meet you!
 <a href="https://w.wiki/3e37"><img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50"></a>
 <a href="https://w.wiki/3JHS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50"></a>
 
-
-### I am learning...
+### I am learning...↓
 
 <a href="https://w.wiki/3EDd"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"></a>
 <a href="https://w.wiki/45Pm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50"></a>
 <a href="https://w.wiki/3Eku"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a>
 
-## I using...
+## I using...↓
 
 <a href="https://w.wiki/45Po"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" width="50"></a>
 <a href="https://w.wiki/3e77"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50"></a>
@@ -42,12 +43,12 @@ Nice to meet you!
 
 ## Badges
 
-[![](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://nakatai.ml/github)
-[![](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://nakatai.ml/github)
-[![](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://nakatai.ml/twitter)
-[![](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://nakatai.ml/youtube)
+[![GitHubのバッジ](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://nakatai.ml/github)
+[![GitHubのバッジ](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://nakatai.ml/github)
+[![Twitterのバッジ](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://nakatai.ml/twitter)
+[![YouTubeのバッジ](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://nakatai.ml/youtube)
 
-## Contribution to...
+## Contribution to...↓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserver-wiki&theme=dracula&show_owner=true)](https://github.com/freeserverproject/freeserver-wiki)
 
