@@ -48,6 +48,13 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://nakatai-0322.hatenablog.jp/rss
           plugin_rss_limit: 6
+          template: repository
+          user: repository-owner
+          repo: repository-name
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci       # Command to setup target repository
+          plugin_licenses_ratio: yes          # Display used licenses ratio
+          plugin_licenses_legal: yes          # Display permissions, limitations and conditions
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
