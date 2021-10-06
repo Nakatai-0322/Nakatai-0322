@@ -58,3 +58,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           COMMIT_MSG: "自動でコーディングステータスをアップデートしました。:floppy_disk:"
+      - uses: actions/checkout@v2
