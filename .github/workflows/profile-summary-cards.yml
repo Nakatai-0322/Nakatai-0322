@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [test_trigger]
-  schedule:
-    - cron: '0 10,12,20 * * *'
   workflow_run:
     workflows:
       - Main
