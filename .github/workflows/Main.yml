@@ -58,7 +58,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           COMMIT_MSG: "自動でコーディングステータスをアップデートしました。:floppy_disk:"
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
