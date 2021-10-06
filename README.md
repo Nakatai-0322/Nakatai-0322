@@ -175,15 +175,15 @@ EJS                      1 repo              █████░░░░░░�
 
 ![Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
 
-ブログ:https://nakatai.ml/blog
+ブログ:<https://nakatai.ml/blog>
 
-ポートフォリオ・実質ホムペ:https://nakatai.ga
+ポートフォリオ・実質ホムペ:<https://nakatai.ga>
 
-Twitter:https://nakatai.ml/twitter
+Twitter:<https://nakatai.ml/twitter>
 
-プロフ:https://nakatai.ml/pr
+プロフ:<https://nakatai.ml/pr>
 
-GitHub:https://nakatai.ml/github
+GitHub:<https://nakatai.ml/github>
 
 Discord:`Nakatai_0322#6872`
 
