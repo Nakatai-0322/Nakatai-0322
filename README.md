@@ -88,7 +88,6 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 <details>
 <summary>詳細なステータス</summary>
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </details>
