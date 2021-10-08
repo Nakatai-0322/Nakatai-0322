@@ -15,7 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          # 他のオプション。
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 14
