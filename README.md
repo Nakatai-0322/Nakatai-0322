@@ -95,7 +95,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 > 🏆 569 Contributions in the Year 2021
  > 
-> 📦 100.9 kB Used in GitHub's Storage 
+> 📦 101.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -169,7 +169,7 @@ JavaScript               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
 </details>
 
