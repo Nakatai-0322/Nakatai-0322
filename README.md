@@ -82,6 +82,8 @@ Nice to meet you!
 [![Twitterのバッジ](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://nakatai.ml/twitter)
 [![YouTubeのバッジ](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://nakatai.ml/youtube)
 
+[![Discordのバッジ](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
+
 ## Contribution to...↓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserver-wiki&theme=dracula)](https://github.com/freeserverproject/freeserver-wiki)
