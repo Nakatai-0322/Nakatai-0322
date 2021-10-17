@@ -100,7 +100,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 [![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/github-metrics.svg" alt="Alternative Text"/>
+<img src="https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/github-metrics.svg" alt="Alternative Text">
 
 <img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/9ddc4633-63ef-4b87-b6ed-164334c640b7.svg" width="1000">
 
