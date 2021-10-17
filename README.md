@@ -49,7 +49,9 @@ Nice to meet you!
 
 ## I using...↓
 
-<a href="https://w.wiki/45Po"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" width="50"></a>
+<a href="https://w.wiki/45Po">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" width="50">
+</a>
 <a href="https://w.wiki/3e77"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50"></a>
 <a href="https://w.wiki/45Ph"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50"></a>
 <a href="https://w.wiki/46LG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="50"></a>
