@@ -212,6 +212,8 @@ Twitter:<https://nakatai.ml/twitter>
 
 GitHub:<https://nakatai.ml/github>
 
+メールアドレス:[contact@nakatai.ga](mailto:contact@nakatai.ga)
+
 Discord:`Nakatai_0322#6872`
 
 MCID:`Nakatai_0322`
