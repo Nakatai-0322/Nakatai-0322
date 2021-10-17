@@ -106,7 +106,6 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ![Wakatimeからのステータス](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/images/stat.svg)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 <details>
 <summary>詳細なステータス</summary>
