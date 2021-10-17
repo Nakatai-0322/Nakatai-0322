@@ -58,9 +58,6 @@ Nice to meet you!
 <a href="https://w.wiki/45Ph">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50">
 </a>
-<a href="https://w.wiki/46LG">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="50">
-</a>
 <a href="https://w.wiki/45PU">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Office" width=50>
 </a>
