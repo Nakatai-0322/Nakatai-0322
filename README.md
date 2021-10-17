@@ -85,7 +85,6 @@ Nice to meet you!
 ## Contribution to...↓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserver-wiki&theme=dracula&show_owner=true)](https://github.com/freeserverproject/freeserver-wiki)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserverproject.github.io&theme=dracula&show_owner=true)](https://github.com/freeserverproject/freeserver-wiki)
 
 ## 自己紹介
