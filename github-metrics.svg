@@ -1462,7 +1462,7 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              60.6 MB used
+              60.9 MB used
             </div>
                             </section>
                             <section>
@@ -3738,7 +3738,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c4b9aab</span>
+                                        <span class="sha">#8940fff</span>
                                         <span class="message">自動でコーディングステータスをアップデートしました。<img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAFzElEQVR4Ae3By4tddwEH8O85+Z070zSTmCckXdVF0I1bs9JoEUToJuRPsKVQ6EJKoQtxyCLQElsfmzaQtRRcuJCAQrEbgyBCC+4UXBYyeTTemTuP+/h4B8+Fa5meaVpt5yZ+PnncVdnD22+/3fT7/WOZWltbO9zv93vp8NRTTy2fOnWqly/JBx988M8zZ84MTp8+/c8XX3xxPQ+hZM7Vq1e/1uv1ftHv9y9WVdVkCkG6nD9/Ps8880y+DJPJJO+//36Qra2tXLt27fZkMvnNYDD48erq6u3so6T15ptvfn00Gv1xMpkc39zczHg8DnL37t08ePAgXQaDQT6P0WiUnZ2ddOn1eimlZC9ra2sppWRX0zRnlpaWnn/yyScvXbt27Qcvv/zyn9OhpLW9vf2zuq6P37lzJ+PxODPr6+vp9/vpsr29nc8KeeGFF7KxsZEux44dy1tvvZWPQ/r9fo4ePZper5ddpZScOHHiVFVVv3v99de/+corr/wtn6DO1Orqaq+u6+8MBoOMRqMgCPK/NplMsrGxkf2sr69nPwgyHA5z9+7d4Dh+u7q6ejSfoM5U0zQnkzTD4TAIgiCLAkEQZDgc5v79+6mq6vzy8vKvV1dX6+yhzlQppUoLQRAEWQQIgiDI1tZWPvroo9R1/b2lpaU3soc6LQRBEARZJAiCIMjGxkbW19dT1/VLV65ceT4fU2dqc3MzCIIgCIIsAgRBEARBHjx4kK2trappml9euXLl25lT5zGA3L9/P5PJpNc0za9WV1dPpFWnhSAIgiCLAkEQBEEQZDwe5969e8HZXq/3k7TqtBAEQRBkkSAIgiAIgmxvb2d7ezu4nFadOQiCIAiyCBAEQRAEQRBkZ2cnVVWde+2111YyVdJCEGRRIfsZjUZBNjc3V5L0S1oIgiwiBNkPgsyUtBAEmYcsAgTZD4LM1HnMlbSQXciiQj4NZKZkDoLMQxYBguwHmVfSQhBkESHIfhBkpqSFIMiiQvaDIDMlLQRB5iGLAEH2gyBVVWVXydRgMMjy8nIQ5ItU13Wefvrp3L59O13OnTuXLgiyHwTZ3NzMrpL/gtFolM+qqqpcvXo1n9VwOMznUTIHQR7WrVu3cuHChZw+fTpfpNFolJs3b2ZXVVVB9oPMK2khCDKv1+tlMBiky9raWl599dV8WaqqSiklyH4QZKakhSDIvOXl5Zw8eTKj0SjIQVNVVXq9Xg4dOhRkPwgyU9JCEOTjSikppeQgQz4NBJkpaSEI8ihDkJk6j7mSOQjyKEPmlbSQXcijDpkpaSEI8ihDkJmSFoIgXZ599tlcvnw5TdPkIBkOh3nnnXdy8+bNdEGQmTotBEEQBEEQBLl06VKapslB0zRNLl26FARBEARBEASZKZmDIF2WlpZyUPV6vSBdkHl1HnMlU4PBIE888UQQZJEhXRBkc3Mzu0paCIIsMqQLgsyUtBAEWWRIFwSZKWkhCLLIkC4IMlMyB0EWGdIFmVfnMVfSQhBkkSFdEGSmpIUgyCJDuiDITEkLQZBFhnRBkJmSFrILWWTIfpCZkjkIssiQLsi8khaCIIsM6YIgM3UecyVTg8Eghw8fDoIsMqQLggwGg+wqaSEIssiQLggyU9JCEGSRIV0QZKZkDoIsMqQLMq+khSBIl8FwkoNqPJ4E6YIgMyUPaeWNv+agWjpU5Vt5OCVTpRRTQZBFhnRBkFKKTJX8253JZLLTNE0PWWRIl6ZpMplMdpLcyVSdqevXrw8nk8kfjhw5kqZpgiAIgiDIQYcgCIIgSNM0OXLkSMbj8bvXr18fZqqkVVXVS/jTuXPnjvf7/ezs7GQvJ5cP5aDqHaqysrKSvfR6vaysrAT3kryUVpU5zz333PnJZPLzqqq+W1VVL3v4y4Uf5aBq6irfuPXT7AU74/H43bquX7px48bf06qyh4sXL5azZ89+JXs49v0ffjUHVD3h/u9v/CN7+PDDDz967733Rvm///QvB6BLAn10DI8AAAAASUVORK5CYII=" height="16" width="16" alt="" />
                       </span>
                                     </div>
@@ -3757,7 +3757,7 @@
                                     <div class="details">
                                         <div>on branch <span class="code">main</span></div>
                                         <div class="commit">
-                                            <span class="sha">#72290f3</span>
+                                            <span class="sha">#75dfc6e</span>
                                             <span class="message">Updated with Dev Metrics</span>
                                         </div>
                                     </div>
@@ -3776,7 +3776,7 @@
                                     <div class="details">
                                         <div>on branch <span class="code">main</span></div>
                                         <div class="commit">
-                                            <span class="sha">#ed05dfc</span>
+                                            <span class="sha">#2c495b4</span>
                                             <span class="message">Charts Updated</span>
                                         </div>
                                     </div>
@@ -3795,7 +3795,7 @@
                                     <div class="details">
                                         <div>on branch <span class="code">main</span></div>
                                         <div class="commit">
-                                            <span class="sha">#d631f5a</span>
+                                            <span class="sha">#c4b9aab</span>
                                             <span class="message">自動でコーディングステータスをアップデートしました。<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                       </span>
                                         </div>
@@ -3814,7 +3814,7 @@
                                         <div class="details">
                                             <div>on branch <span class="code">main</span></div>
                                             <div class="commit">
-                                                <span class="sha">#ecf4aad</span>
+                                                <span class="sha">#72290f3</span>
                                                 <span class="message">Updated with Dev Metrics</span>
                                             </div>
                                         </div>
@@ -4281,7 +4281,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 27/10/2021, 12:30  with lowlighter/metrics@3.14.0</span>
+                        <span>Last updated 27/10/2021, 20:20  with lowlighter/metrics@3.14.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
