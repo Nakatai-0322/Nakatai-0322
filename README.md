@@ -119,13 +119,13 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 <summary>詳細なステータス</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 685 Contributions in the Year 2021
+> 🏆 686 Contributions in the Year 2021
  > 
-> 📦 60.9 kB Used in GitHub's Storage 
+> 📦 61.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -200,7 +200,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 </details>
 
