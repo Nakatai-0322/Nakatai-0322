@@ -10,7 +10,9 @@
 <a href="https://nakatai-0322.hatenablog.jp/">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
-<a href="https://dev.to/nakatai_0322"><img src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" width="50"></a>
+<a href="https://dev.to/nakatai_0322">
+    <img src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" width="50">
+</a>
 <a href="https://twitter.com/Nakatai_0322">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
