@@ -210,7 +210,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 ## 連絡先
 
-![Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
+![Nakatai's Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
 
 ブログ:<https://nakatai.ml/blog>
 
