@@ -132,7 +132,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ブログ:<https://nakatai.ml/blog>
 
-ポートフォリオ・実質ホムペ:<https://nakatai.ga>
+ホームページ:<https://nakatai.ga>
+
+ポートフォリオ:<https://portfolio.nakatai.ga>
 
 Twitter:<https://nakatai.ml/twitter>
 
