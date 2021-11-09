@@ -5,12 +5,14 @@ on:
   repository_dispatch:
     types: [test_trigger]
     workflow_run:
-     workflows:
-       - Main
-     branches:
-       - main
-     types: 
-       - completed
+      workflows:
+        - Main
+      branches:
+        - main
+      types: 
+        - completed
+    schedule:
+      - cron: '0 10,12,20 * * *'
 
 jobs:
   build:
