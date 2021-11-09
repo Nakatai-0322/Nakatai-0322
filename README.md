@@ -104,6 +104,8 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![サマリーカード](https://github-readme-streak-stats.herokuapp.com/?user=Nakatai-0322)
+
 [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
