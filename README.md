@@ -122,7 +122,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 
 <details>
-<summary>詳細なステータス</summary>
+<summary>
+    詳細なステータス
+</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
