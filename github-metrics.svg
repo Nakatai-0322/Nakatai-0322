@@ -3775,45 +3775,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#11f42d4</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#300509d</span>
-                                        <span class="message">Charts Updated</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#9e80171</span>
+                                        <span class="sha">#7f1f626</span>
                                         <span class="message">自動でコーディングステータスをアップデートしました。<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                       </span>
                                     </div>
@@ -3832,7 +3794,7 @@
                                     <div class="details">
                                         <div>on branch <span class="code">main</span></div>
                                         <div class="commit">
-                                            <span class="sha">#a574742</span>
+                                            <span class="sha">#e276acf</span>
                                             <span class="message">自動でコーディングステータスをアップデートしました。<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                       </span>
                                         </div>
@@ -3851,7 +3813,45 @@
                                         <div class="details">
                                             <div>on branch <span class="code">main</span></div>
                                             <div class="commit">
-                                                <span class="sha">#55e893f</span>
+                                                <span class="sha">#cb0ce0a</span>
+                                                <span class="message">Updated with Dev Metrics</span>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322</span>
+                    </div>
+                                        </div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <span class="sha">#68c25fb</span>
+                                                <span class="message">Charts Updated</span>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                                <div class="row fill-width">
+                                    <section class="activity">
+                                        <div class="field">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                            </svg>
+                                            <div class="content">
+                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322</span>
+                    </div>
+                                        </div>
+                                        <div class="details">
+                                            <div>on branch <span class="code">main</span></div>
+                                            <div class="commit">
+                                                <span class="sha">#11f42d4</span>
                                                 <span class="message">Updated with Dev Metrics</span>
                                             </div>
                                         </div>
@@ -4104,7 +4104,7 @@
                                             </defs>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                                 <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="113.14999999999999 155"/>
+                                                <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.7 155"/>
                                             </svg>
                                             <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                                 <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4127,7 +4127,7 @@
                   
                   
                 </div>
-                                        <div class="text">Repositories have been deployed 419 times</div>
+                                        <div class="text">Repositories have been deployed 422 times</div>
                                     </div>
                                 </div>
                                 <div class="achievement b largeable-width-half">
@@ -4318,7 +4318,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 11 Nov 2021, 12:30:02  with lowlighter/metrics@3.15.0</span>
+                        <span>Last updated 11 Nov 2021, 20:10:34  with lowlighter/metrics@3.15.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
