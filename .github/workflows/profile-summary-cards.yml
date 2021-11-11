@@ -11,8 +11,8 @@ on:
         - main
       types: 
         - completed
-    schedule:
-      - cron: '0 10,12,20 * * *'
+  schedule:
+    - cron: '0 10,12,20 * * *'
 
 jobs:
   build:
