@@ -106,19 +106,19 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![サマリーカード](profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![サマリーカード](profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![サマリーカード](profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![サマリーカード](profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![サマリーカード](profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/github-metrics.svg" alt="Alternative Text">
+<img src="./github-metrics.svg" alt="Alternative Text">
 
 <img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/9ddc4633-63ef-4b87-b6ed-164334c640b7.svg" width="1000">
 
-![Wakatimeからのステータス](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/images/stat.svg)
+![Wakatimeからのステータス](images/stat.svg)
 
 
 <details>
