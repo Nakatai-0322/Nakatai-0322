@@ -43,9 +43,6 @@ Nice to meet you!
 <a href="https://w.wiki/3e37">
     <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
 </a>
-<a href="https://w.wiki/3JHS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50">
-</a>
 
 ### I am learning...↓
 
