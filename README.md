@@ -124,13 +124,13 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 765 Contributions in the Year 2021
  > 
-> 📦 94.0 kB Used in GitHub's Storage 
+> 📦 96.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,8 +142,8 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ```text
 🌞 Morning    126 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
-🌆 Daytime    161 commits    █████████░░░░░░░░░░░░░░░░   36.02% 
-🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   35.57% 
+🌆 Daytime    160 commits    █████████░░░░░░░░░░░░░░░░   35.79% 
+🌃 Evening    160 commits    █████████░░░░░░░░░░░░░░░░   35.79% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 ```
