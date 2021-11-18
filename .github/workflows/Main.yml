@@ -62,6 +62,16 @@ jobs:
           plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
           plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
           plugin_pagespeed_url: user.website                   # Website to audit (defaults to your GitHub linked website)
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes          # Display used licenses ratio
+          plugin_licenses_legal: yes          # Display permissions, limitations and conditions
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Japan # Set timezone
   waka-read-me: 
     name: waka-stats
     runs-on: ubuntu-latest
