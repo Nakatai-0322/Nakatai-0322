@@ -58,11 +58,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes  # Display repositories name instead of only organization name
           plugin_notable_indepth: yes       # Gather additional informations about contributions
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
-          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: user.website                   # Website to audit (defaults to your GitHub linked website)
           plugin_licenses: yes
           plugin_licenses_ratio: yes          # Display used licenses ratio
           plugin_licenses_legal: yes          # Display permissions, limitations and conditions
