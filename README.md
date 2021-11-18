@@ -237,7 +237,6 @@ MCID:`Nakatai_0322`
 
 [![Main](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Main.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Main.yml)
 
-[![GitHub-Profile-Summary-Cards](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/profile-summary-cards.yml)
 [![Metrics](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml)
 [![Waka Readme](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml)
 [![WakaTime-Stats](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml)
