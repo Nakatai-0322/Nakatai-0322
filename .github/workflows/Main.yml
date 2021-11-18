@@ -47,6 +47,10 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://nakatai-0322.hatenablog.jp/rss
           plugin_rss_limit: 6
+          plugin_languages: yes
+          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used           # Display most used and recently used
+          commits_authoring: nakatai0322@gmail.com           # Surnames or email addresses used to identify your commits
   waka-read-me: 
     name: waka-stats
     runs-on: ubuntu-latest
