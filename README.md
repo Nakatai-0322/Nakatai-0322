@@ -107,7 +107,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 <img src="./github-metrics.svg" alt="Alternative Text">
 
-![](https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/017815ed-5bba-406e-bc1f-eb452eca4798.svg)
+<img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/017815ed-5bba-406e-bc1f-eb452eca4798.svg" alt="stat from wakatime" width="500">
 
 <details>
 <summary>
