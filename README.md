@@ -237,6 +237,5 @@ MCID:`Nakatai_0322`
 
 [![Metrics](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml)
 [![Waka Readme](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml)
-[![WakaTime-Stats](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml)
 
 [![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/144e7989-c156-4b45-9e7b-7006f47eee8f.svg)](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/144e7989-c156-4b45-9e7b-7006f47eee8f)
