@@ -9,7 +9,7 @@ on:
 
 jobs:
   github-metrics:
-    name: Main
+    name: metrics
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -47,13 +47,39 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://nakatai-0322.hatenablog.jp/rss
           plugin_rss_limit: 6
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          commits_authoring: nakatai0322@gmail.com
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes     
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes      
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_timezone: Japan
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_stargazers: yes
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 100
+          plugin_code_visibility: public
+  waka-read-me: 
+    name: waka-stats
+    runs-on: ubuntu-latest
+    steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - uses: avinal/Profile-Readme-WakaTime@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "main"
-          COMMIT_MSG: "自動でコーディングステータスをアップデートしました。:floppy_disk:"

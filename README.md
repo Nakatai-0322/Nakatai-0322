@@ -43,9 +43,6 @@ Nice to meet you!
 <a href="https://w.wiki/3e37">
     <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
 </a>
-<a href="https://w.wiki/3JHS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="50">
-</a>
 
 ### I am learning...↓
 
@@ -106,56 +103,51 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![サマリーカード](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/github-metrics.svg" alt="Alternative Text">
+<img src="./github-metrics.svg" alt="Alternative Text">
 
-<img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/9ddc4633-63ef-4b87-b6ed-164334c640b7.svg" width="1000">
-
-![Wakatimeからのステータス](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/images/stat.svg)
-
+<img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/017815ed-5bba-406e-bc1f-eb452eca4798.svg" alt="stat from wakatime" width="500">
 
 <details>
-<summary>詳細なステータス</summary>
+<summary>
+    詳細なステータス
+</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 731 Contributions in the Year 2021
+> 🏆 824 Contributions in the Year 2021
  > 
-> 📦 78.3 kB Used in GitHub's Storage 
+> 📦 133.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    125 commits    ███████░░░░░░░░░░░░░░░░░░   29.9% 
-🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   37.32% 
-🌃 Evening    136 commits    ████████░░░░░░░░░░░░░░░░░   32.54% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+🌞 Morning    120 commits    ██████░░░░░░░░░░░░░░░░░░░   26.26% 
+🌆 Daytime    126 commits    ███████░░░░░░░░░░░░░░░░░░   27.57% 
+🌃 Evening    210 commits    ███████████░░░░░░░░░░░░░░   45.95% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.1% 
-Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
-Wednesday    62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-Saturday     69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Sunday       87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81%
+Monday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
+Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Wednesday    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
+Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+Saturday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.72% 
+Sunday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.04%
 
 ```
 
@@ -166,35 +158,36 @@ Sunday       87 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.82% 
-HTML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-XML                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+Markdown                 1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   42.63% 
+YAML                     1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   39.71% 
+HTML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 26 mins       ████████████████████████░   97.39% 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 🐱‍💻 Projects: 
-Nakatai-0322             58 mins             ██████████░░░░░░░░░░░░░░░   42.06% 
-Nakatai-0322.github.io   37 mins             ██████░░░░░░░░░░░░░░░░░░░   27.3% 
-pro.freeserver.wiki      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-Waribiki-Keisan          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-JS-tut                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+Nakatai-0322             2 hrs 30 mins       █████████████░░░░░░░░░░░░   54.85% 
+pro.freeserver.wiki      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+Random-No-               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
+freeserver-wiki          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+tp-official-site         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.0%
+Windows                  4 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Batchfile                1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-EJS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+EJS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
@@ -204,7 +197,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 </details>
 
@@ -228,9 +221,7 @@ Twitter:<https://nakatai.ml/twitter>
 
 GitHub:<https://nakatai.ml/github>
 
-WakaTime:<https://wakatime.com/@Nakatai_0322>
-
-メールアドレス:[contact@nakatai.ga](mailto:contact@nakatai.ga)
+メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
 
 Discord:`Nakatai_0322#6872`
 
@@ -244,7 +235,7 @@ MCID:`Nakatai_0322`
 
 [![Main](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Main.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Main.yml)
 
-[![GitHub-Profile-Summary-Cards](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/profile-summary-cards.yml)
 [![Metrics](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml)
 [![Waka Readme](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Waka-Readme.yml)
-[![WakaTime-Stats](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml/badge.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Wakatime-Stats.yml)
+
+[![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/144e7989-c156-4b45-9e7b-7006f47eee8f.svg)](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/144e7989-c156-4b45-9e7b-7006f47eee8f)
