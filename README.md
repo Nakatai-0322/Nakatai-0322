@@ -29,7 +29,7 @@ Nice to meet you!
 
 ## Skills
 
-### I can write/use...↓(I'm Not Perfect)
+### I can write/use...↓(I'm **Not** Perfect)
 
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
