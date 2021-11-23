@@ -2,6 +2,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
+<img src="https://pbs.twimg.com/profile_banners/1309410702885416960/1637638285/1500x500" alt="Twitter Banner" width="500">
+
 - Links
 
 <a href="https://nakatai.ga">
