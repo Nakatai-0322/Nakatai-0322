@@ -31,7 +31,7 @@ Nice to meet you!
 
 ## Skills
 
-### I can write/use...↓(I'm **NOT** Perfect)
+### I can write/use...(I'm **NOT** Perfect)
 
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
@@ -49,7 +49,7 @@ Nice to meet you!
     <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
 </a>
 
-### I am learning...↓
+### I am learning...
 
 <a href="https://w.wiki/3EDd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
@@ -61,7 +61,7 @@ Nice to meet you!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
 </a>
 
-## I using...↓
+## I using...
 
 <a href="https://w.wiki/45Po">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" width="50">
@@ -88,7 +88,7 @@ Nice to meet you!
 
 [![Discordのバッジ](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 
-## Contribution to...↓
+## Contribution to...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserver-wiki&theme=dracula)](https://github.com/freeserverproject/freeserver-wiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freeserverproject&repo=freeserverproject.github.io&theme=dracula)](https://github.com/freeserverproject/freeserver-wiki)
