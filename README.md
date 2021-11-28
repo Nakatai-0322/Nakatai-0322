@@ -7,7 +7,7 @@
 - Links
 
 <a href="https://nakatai.ga">
-    <img src="https://camo.githubusercontent.com/31ca547298603fcad628ec15136c30aab05ac34e3d120cc464faa3196c628e9f/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3536352f3536353532372e737667" width="50">
+    <img src="https://i.imgur.com/Ltk5aRT.png" width="50">
 </a>
 <a href="https://nakatai-0322.hatenablog.jp/">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
