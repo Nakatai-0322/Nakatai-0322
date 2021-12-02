@@ -4,6 +4,8 @@
 
 <img src="https://pbs.twimg.com/profile_banners/1309410702885416960/1637638285/1500x500" alt="Twitter Banner" width="500">
 
+![](https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits)
+
 - Links
 
 <a href="https://nakatai.ga">
