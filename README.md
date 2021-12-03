@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
 
-![](https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits)
+![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits)
 
 - Links
 
