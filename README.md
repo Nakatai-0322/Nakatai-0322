@@ -108,6 +108,8 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Nakatai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=williNakatai_0322)](https://wakatime.com/@Nakatai_0322)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=22272E&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
 [![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
