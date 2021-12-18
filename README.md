@@ -105,7 +105,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ## GitHubプロフィール
 
-[![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1)
+[![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
 
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
