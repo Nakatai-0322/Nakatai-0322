@@ -107,10 +107,10 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 [![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
 
-[![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=github_dark&bg_color=22272e&border_color=444C56)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&theme=github_dark&bg_color=22272e&border_color=444C56)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nakatai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nakatai_0322)](https://wakatime.com/@Nakatai_0322)
+[![Nakatai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nakatai_0322&bg_color=22272e&bg_color=FFFFFF)](https://wakatime.com/@Nakatai_0322)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=22272E&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
