@@ -66,7 +66,7 @@ Nice to meet you!
 ## I using...
 
 <a href="https://w.wiki/45Po">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" alt="Firefox" width="50">
 </a>
 <a href="https://w.wiki/3e77">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="50">
