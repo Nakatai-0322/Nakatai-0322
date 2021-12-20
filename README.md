@@ -126,15 +126,15 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,105 Contributions in the Year 2021
+> 🏆 1,113 Contributions in the Year 2021
  > 
-> 📦 256.8 kB Used in GitHub's Storage 
+> 📦 261.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -154,10 +154,10 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
+Monday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
 Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
 Wednesday    38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Thursday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
 Friday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
 Saturday     140 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01% 
 Sunday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.7%
