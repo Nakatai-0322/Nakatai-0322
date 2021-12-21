@@ -121,7 +121,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -150,9 +150,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ```text
 Monday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
-Tuesday      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Tuesday      60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
 Wednesday    38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
-Thursday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
 Friday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
 Saturday     141 commits    █████░░░░░░░░░░░░░░░░░░░░   22.14% 
 Sunday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66%
