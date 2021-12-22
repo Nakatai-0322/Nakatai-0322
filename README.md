@@ -121,13 +121,15 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,120 Contributions in the Year 2021
+> 🏆 1,121 Contributions in the Year 2021
  > 
-> 📦 266.1 kB Used in GitHub's Storage 
+> 📦 267.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,9 +151,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 ```text
 Monday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
 Tuesday      60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
-Wednesday    38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97% 
+Wednesday    39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
 Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Friday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.56% 
 Saturday     141 commits    █████░░░░░░░░░░░░░░░░░░░░   22.14% 
 Sunday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66%
 
@@ -202,7 +204,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
 </details>
 
