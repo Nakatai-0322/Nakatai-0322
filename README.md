@@ -226,7 +226,7 @@ Twitter:<https://nakatai.ml/twitter>
 
 GitHub:<https://nakatai.ml/github>
 
-WakaTime:<https://wakatime.com/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1>
+WakaTime:<https://wakatime.com/@Nakatai_0322>
 
 メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
 
