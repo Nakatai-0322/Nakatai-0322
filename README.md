@@ -109,7 +109,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=22272E&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
-[![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="./github-metrics.svg" alt="GitHub Metrics">
 
