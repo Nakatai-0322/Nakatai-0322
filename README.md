@@ -105,15 +105,15 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nakatai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Nakatai_0322&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://wakatime.com/@Nakatai_0322)
+<a href="https://wakatime.com/@Nakatai_0322">
+    <embed src="https://wakatime.com/share/@Nakatai_0322/b94a89d4-b8ee-45a6-a587-c812ea7298c9.svg" width="600">
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=22272E&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
 [![トロフィー](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="./github-metrics.svg" alt="GitHub Metrics">
-
-<img src="https://wakatime.com/share/@c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/017815ed-5bba-406e-bc1f-eb452eca4798.svg" alt="stat from wakatime" width="500">
 
 <details>
 <summary>
