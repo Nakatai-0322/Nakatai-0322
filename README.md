@@ -121,7 +121,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
@@ -129,7 +129,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 > 🏆 1,367 Contributions in the Year 2021
  > 
-> 📦 300.4 kB Used in GitHub's Storage 
+> 📦 302.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
