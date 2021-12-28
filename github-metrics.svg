@@ -1808,18 +1808,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 147 edited files from 162 commits over last 9 days
+            estimation from 136 edited files from 162 commits over last 9 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.3217715069567" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="302.3217715069567" y="0" width="79.1185577111503" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.44032921810697" y="0" width="60.62120321379581" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="442.0615324319028" y="0" width="14.5851459925534" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.6466784244562" y="0" width="3.3533215755437977" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.77181641887523" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="330.77181641887523" y="0" width="66.65589312648137" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="397.4277095453566" y="0" width="42.848093083387205" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.2758026287438" y="0" width="16.03706097823745" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.3128636069813" y="0" width="3.6871363930187457" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1827,12 +1827,12 @@
                 Vue
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                JavaScript
-              </div>
-                    <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff6347" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Stylus
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                JavaScript
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -2179,8 +2179,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 12.195121951219512px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 13.414634146341465px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -2194,8 +2194,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 1.2195121951219512px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -2304,6 +2304,11 @@
             
           </div>
                         <div class="tweet">
+                  2021-12-28のツイート数は4件でした（1,152-&gt;1,156）  <span class="hashtag">#ツイート数えったー</span>  <span class="mention">@Nakatai_0322</span>
+                  
+                  <div class="date">00:00:34 on 29 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   RT <span class="mention">@smhntv</span>: 【再告知】現在、本垢が凍結屋から脅迫を受けています。手口は認証バッジ付き含む多数のアカウントからの通報。要求されている金銭支払いに応じることは、犯罪組織に活動資金を供給するのと同義であるため、断固拒否します。Twitter社の対応に期待できないため一旦鍵…
                   
                   <div class="date">10:33:06 on 28 Dec 2021</div>
@@ -2344,11 +2349,6 @@
                     </div>
                   
                   <div class="date">07:12:10 on 28 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  2021-12-27のツイート数は2件でした（1,150-&gt;1,152）  <span class="hashtag">#ツイート数えったー</span>  <span class="mention">@Nakatai_0322</span>
-                  
-                  <div class="date">00:00:43 on 28 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -4558,6 +4558,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <span class="sha">#5854a76</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <span class="sha">#7df0f73</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -4693,25 +4712,6 @@
                                     <div class="commit">
                                         <span class="sha">#c1811f1</span>
                                         <span class="message">Update Main.yml</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Nakatai-0322/Nakatai-0322.GitHub.io</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#938445e</span>
-                                        <span class="message">Update index.html</span>
                                     </div>
                                 </div>
                             </section>
@@ -4909,7 +4909,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.9375 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.015 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4932,7 +4932,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 925 times</div>
+                                <div class="text">Repositories have been deployed 926 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -5321,7 +5321,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2021, 21:30:11 (timezone Japan) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 29 Dec 2021, 05:19:54 (timezone Japan) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
