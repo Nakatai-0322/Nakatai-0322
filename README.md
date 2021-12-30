@@ -53,7 +53,7 @@ But,nice to meet you!
     <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
 </a>
 <a href="https://w.wiki/3PyA">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="50">
 </a>
 
 ### I am learning...
