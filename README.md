@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 # Nakatai_0322
 
 <img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
@@ -44,7 +46,7 @@ But,nice to meet you!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
 <a href="https://w.wiki/45PM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width=50>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
 </a>
 <a href="https://w.wiki/3e37">
     <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
@@ -77,7 +79,7 @@ But,nice to meet you!
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Office" width=50>
 </a>
 <a href="https://w.wiki/3LXC">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
 </a>
 
 ## Badges
