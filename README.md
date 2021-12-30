@@ -52,17 +52,14 @@ But,nice to meet you!
 <a href="https://w.wiki/4RTG">
     <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
 </a>
+<a href="https://w.wiki/3PyA">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg">
+</a>
 
 ### I am learning...
 
 <a href="https://w.wiki/3EDd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
-</a>
-<a href="https://w.wiki/45Pm">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50">
-</a>
-<a href="https://w.wiki/3Eku">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50">
 </a>
 
 ## I using...
