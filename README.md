@@ -27,9 +27,11 @@ Hi! everyone!
 
 I'm Nakatai.
 
-I'm a developer kind of guy.
+I'm a developer **kind of** guy.
 
-Nice to meet you!
+And I am crazy human.
+
+But,nice to meet you!
 
 ## Skills
 
