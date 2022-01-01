@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
 # Nakatai_0322
 
-<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
+<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200">
+/
+ <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
 <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
 
@@ -13,13 +13,13 @@
 <a href="https://nakatai.ga">
     <img src="https://i.imgur.com/Ltk5aRT.png" width="50">
 </a>
-<a href="https://nakatai-0322.hatenablog.jp/">
+<a href="https://nakatai.ga">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
-<a href="https://dev.to/nakatai_0322">
+<a href="https://go.nakatai.ga/devto">
     <img src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" width="50">
 </a>
-<a href="https://twitter.com/Nakatai_0322">
+<a href="https://go.nakatai.ga/twitter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
@@ -33,7 +33,7 @@ I'm a developer **kind of** guy.
 
 And I am crazy human.
 
-But,nice to meet you!
+But, nice to meet you!
 
 ## Skills
 
@@ -84,10 +84,10 @@ But,nice to meet you!
 
 ## Badges
 
-[![GitHubのバッジ](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://nakatai.ml/github)
-[![GitHubのバッジ](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://nakatai.ml/github)
-[![Twitterのバッジ](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://nakatai.ml/twitter)
-[![YouTubeのバッジ](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://nakatai.ml/youtube)
+[![GitHubのバッジ](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://go.nakatai.ga/github)
+[![GitHubのバッジ](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://go.nakatai.ga/github)
+[![Twitterのバッジ](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://go.nakatai.ga/twitter)
+[![YouTubeのバッジ](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://go.nakatai.ga/youtube)
 
 [![Discordのバッジ](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 
@@ -214,19 +214,17 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ![Nakatai's Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
 
-ブログ:<https://nakatai.ml/blog>
-
-ホームページ:<https://nakatai.ga>
+ブログ・ホームページ:<https://go.nakatai.ga/blog>
 
 ポートフォリオ:<https://portfolio.nakatai.ga>
 
-Twitter:<https://nakatai.ml/twitter>
+Twitter:<https://go.nakatai.ga/twitter>
 
-プロフ:<https://nakatai.ml/pr>
+プロフ:<https://go.nakatai.ga/pr>
 
-GitHub:<https://nakatai.ml/github>
+GitHub:<https://go.nakatai.ga/github>
 
-WakaTime:<https://wakatime.com/@Nakatai_0322>
+WakaTime:<https://go.nakatai.ga/wakatime>
 
 メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
 
