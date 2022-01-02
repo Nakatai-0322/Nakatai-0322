@@ -123,7 +123,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
@@ -131,7 +131,7 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 > 🏆 10 Contributions in the Year 2022
  > 
-> 📦 323.9 kB Used in GitHub's Storage 
+> 📦 324.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,8 +143,8 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 
 ```text
 🌞 Morning    205 commits    ██████░░░░░░░░░░░░░░░░░░░   26.94% 
-🌆 Daytime    236 commits    ███████░░░░░░░░░░░░░░░░░░   31.01% 
-🌃 Evening    319 commits    ██████████░░░░░░░░░░░░░░░   41.92% 
+🌆 Daytime    235 commits    ███████░░░░░░░░░░░░░░░░░░   30.88% 
+🌃 Evening    320 commits    ██████████░░░░░░░░░░░░░░░   42.05% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 ```
