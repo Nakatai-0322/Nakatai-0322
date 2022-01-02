@@ -80,7 +80,7 @@ But, nice to meet you!
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
 </a>
 <a href="https://w.wiki/3HGk">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Service" width="50">
 </a>
 
 ## Badges
