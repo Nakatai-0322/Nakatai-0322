@@ -123,15 +123,15 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 14 Contributions in the Year 2022
+> 🏆 15 Contributions in the Year 2022
  > 
-> 📦 326.2 kB Used in GitHub's Storage 
+> 📦 327.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,9 +151,9 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
+Monday       134 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
 Tuesday      62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-Wednesday    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+Wednesday    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
 Thursday     86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
 Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
 Saturday     185 commits    ██████░░░░░░░░░░░░░░░░░░░   24.31% 
@@ -205,7 +205,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 </details>
 
