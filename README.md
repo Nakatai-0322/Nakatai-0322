@@ -215,7 +215,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ![Nakatai's Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
 
-ブログ・ホームページ:<https://go.nakatai.ga/blog>
+ブログ・ホームページ:<https://nakatai.ga>
 
 ポートフォリオ:<https://portfolio.nakatai.ga>
 
