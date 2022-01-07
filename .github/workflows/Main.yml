@@ -45,7 +45,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: freeserverproject/freeserver-wiki, Nakatai-0322/Nakatai-0322, Nakatai-0322/Nakatai-0322.github.io
           plugin_rss: yes
-          plugin_rss_source: https://nakatai.ga/feed.json
+          plugin_rss_source: https://nakatai.ga/rss.xml
           plugin_rss_limit: 6
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -58,9 +58,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes     
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
-          plugin_licenses_legal: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
