@@ -1,5 +1,7 @@
 # Nakatai_0322
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+
 <img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200">/<img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
 <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
@@ -44,7 +46,7 @@ But, nice to meet you!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
 <a href="https://w.wiki/45PM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+    <i class="devicon-github-original"></i>
 </a>
 <a href="https://w.wiki/3e37">
     <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
