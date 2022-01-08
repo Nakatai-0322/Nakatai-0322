@@ -211,7 +211,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ## 所属団体
 
-[こちら](https://docs.google.com/spreadsheets/d/1YQkJmBXS_hnTsipJN3khyU98rgZY7RTB8iwhHU-6ICc/edit?usp=sharing)をご覧ください。
+[こちら](https://go.nakatai.ga/orgs)をご覧ください。
 
 ## 連絡先
 
