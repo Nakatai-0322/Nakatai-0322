@@ -94,9 +94,9 @@ But, nice to meet you!
 
 ## 自己紹介
 
-個人的な自己紹介は，[こちら](https://vprof.me/@/Nakatai_0322)を参照
+個人的な自己紹介は，[こちら](https://go.nakatai.ga/pr)を参照
 
-ポートフォリオは，[こちら](https://nakatai.ga)です。
+ポートフォリオは，[こちら](https://portfolio.nakatai.ga)です。
 
 FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)を参照
 
