@@ -228,7 +228,7 @@ WakaTime:<https://go.nakatai.ga/wakatime>
 
 Discord:`Nakatai_0322#6872`
 
-MCID:`Nakatai_0322`
+MCID:[`Nakatai_0322`](https://go.nakatai.ga/namemc)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E15HUC8)
 
