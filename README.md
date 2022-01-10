@@ -2,7 +2,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200">/<img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
-<img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
+<a href="https://go.nakatai.ga/twitter"> 
+    <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
+</a>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits" width="600">
 
