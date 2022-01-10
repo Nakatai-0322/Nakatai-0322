@@ -1,6 +1,6 @@
 # Nakatai_0322
 
-<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200">/<img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
+<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
 <a href="https://go.nakatai.ga/twitter"> 
     <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
