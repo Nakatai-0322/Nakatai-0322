@@ -11,9 +11,6 @@
 - Links
 
 <a href="https://nakatai.ga">
-    <img src="https://i.imgur.com/Ltk5aRT.png" width="50">
-</a>
-<a href="https://nakatai.ga">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
 <a href="https://go.nakatai.ga/devto">
