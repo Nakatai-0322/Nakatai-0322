@@ -119,13 +119,15 @@ FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserve
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 145 Contributions in the Year 2022
  > 
-> 📦 303.0 kB Used in GitHub's Storage 
+> 📦 305.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -200,7 +202,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 </details>
 
