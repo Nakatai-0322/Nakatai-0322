@@ -60,6 +60,9 @@ But, nice to meet you!
 <a href="https://w.wiki/3EDd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 </a>
+<a href="https://w.wiki/3MgB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
+</a>
 
 ## I using...
 
