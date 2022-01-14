@@ -130,7 +130,7 @@ But, nice to meet you!
 
 > 🏆 172 Contributions in the Year 2022
  > 
-> 📦 321.0 kB Used in GitHub's Storage 
+> 📦 322.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
