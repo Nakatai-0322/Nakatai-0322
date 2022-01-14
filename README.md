@@ -97,7 +97,7 @@ But, nice to meet you!
 
 ポートフォリオは，[こちら](https://portfolio.nakatai.ga)です。
 
-FREESERVER運営としての自己紹介は，[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)を参照
+[FREESERVER](https://freeserver.pro)運営としての自己紹介は，[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)を参照
 
 ## GitHubプロフィール
 
