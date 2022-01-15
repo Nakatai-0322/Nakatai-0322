@@ -13,15 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-
-          user: Nakatai-0322
-          config_gemoji: yes
-          config_timezone: Asia/Tokyo
-          retries: 3
-          retries_delay: 300
-          use_prebuilt_image: yes
           token: ${{ secrets.GH_TOKEN }}
-
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 14
@@ -53,7 +45,7 @@ jobs:
           plugin_repositories_featured: freeserverproject/freeserver-wiki, Nakatai-0322/Nakatai-0322, Nakatai-0322/Nakatai-0322.github.io
           plugin_rss: yes
           plugin_rss_source: https://nakatai.ga/rss.xml
-          plugin_rss_limit: 10
+          plugin_rss_limit: 6
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used, recently-used
@@ -65,12 +57,16 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes     
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes      
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          config_timezone: Japan
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_stargazers: yes
@@ -84,4 +80,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: .user.login  
