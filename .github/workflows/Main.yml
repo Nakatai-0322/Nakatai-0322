@@ -37,7 +37,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 4
-          plugin_tweets_user: .user.twitter
+          plugin_tweets_user: Nakatai_0322
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent
