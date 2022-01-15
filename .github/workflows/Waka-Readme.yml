@@ -1,16 +1,16 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
-  repository_dispatch:
-    types: [test_trigger]
+    workflow_dispatch:
+    repository_dispatch:
+        types: [test_trigger]
 
 jobs:
-  update-readme:
-    name: WakaTime Readme
+  waka-read-me:
+    name: waka-stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        - uses: anmol098/waka-readme-stats@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -1,11 +1,11 @@
 name: Main
 
 on:
-  repository_dispatch:
-    types: [test_trigger]
-  workflow_dispatch:
-  schedule:
-    - cron: '0 10,12,20 * * *'
+    repository_dispatch:
+        types: [test_trigger]
+    workflow_dispatch:
+    schedule:
+        - cron: '0 10,12,20 * * *'
 
 jobs:
   github-metrics:
@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-
           user: Nakatai-0322
           config_gemoji: yes
           config_timezone: Asia/Tokyo
@@ -22,7 +21,6 @@ jobs:
           retries_delay: 300
           use_prebuilt_image: yes
           token: ${{ secrets.GH_TOKEN }}
-
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 14
@@ -65,11 +63,11 @@ jobs:
           plugin_topics_limit: 0
           plugin_notable: yes
           plugin_notable_repositories: yes
-          plugin_notable_indepth: yes     
+          plugin_notable_indepth: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_facts: yes      
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
           plugin_followup: yes
@@ -85,12 +83,12 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs
           plugin_wakatime_limit: 4
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login                         
-  waka-read-me: 
+          plugin_wakatime_user: .user.login
+  waka-read-me:
     name: waka-stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        - uses: anmol098/waka-readme-stats@master
+          with:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
