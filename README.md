@@ -129,7 +129,7 @@ But, nice to meet you!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
@@ -139,7 +139,7 @@ But, nice to meet you!
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
