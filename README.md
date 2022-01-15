@@ -126,7 +126,7 @@ But, nice to meet you!
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -134,7 +134,7 @@ But, nice to meet you!
 
 > 🏆 201 Contributions in the Year 2022
  > 
-> 📦 326.5 kB Used in GitHub's Storage 
+> 📦 336.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,9 +145,9 @@ But, nice to meet you!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.96% 
+🌞 Morning    228 commits    ██████░░░░░░░░░░░░░░░░░░░   26.73% 
 🌆 Daytime    291 commits    ████████░░░░░░░░░░░░░░░░░   34.11% 
-🌃 Evening    331 commits    █████████░░░░░░░░░░░░░░░░   38.8% 
+🌃 Evening    333 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 ```
