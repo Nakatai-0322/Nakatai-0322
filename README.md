@@ -109,8 +109,8 @@ But, nice to meet you!
 |---|---|
 |[![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
-<a href="https://wakatime.com/@Nakatai_0322">
-    <embed src="https://wakatime.com/share/@Nakatai_0322/b94a89d4-b8ee-45a6-a587-c812ea7298c9.svg" width="600">
+<a href="https://wakatime.com/share/@Nakatai_0322/b94a89d4-b8ee-45a6-a587-c812ea7298c9.svg">
+  <img src="https://wakatime.com/share/@Nakatai_0322/b94a89d4-b8ee-45a6-a587-c812ea7298c9.svg" width="600">
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=22272E&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
