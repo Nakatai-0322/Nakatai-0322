@@ -7,10 +7,10 @@ on:
 
 
 jobs:
-    github-metrics:
-      name: metrics
-      runs-on: ubuntu-latest
-      steps:
+  github-metrics:
+    name: metrics
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           user: Nakatai-0322
@@ -19,7 +19,6 @@ jobs:
           retries: 3
           retries_delay: 300
           use_prebuilt_image: yes
-
           token: ${{ secrets.GH_TOKEN }}
           plugin_reactions: yes
           plugin_reactions_limit: 200
@@ -37,7 +36,7 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 4
-          plugin_tweets_user: .user.twitter
+          plugin_tweets_user: Nakatai_0322
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent
@@ -80,7 +79,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 4
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: Nakatai_0322
+
