@@ -83,6 +83,8 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 4
           plugin_wakatime_user: Nakatai_0322
+          plugin_people: yes
+          plugin_people_types: followers, following, thanks
   waka-read-me:
     name: waka-stats
     runs-on: ubuntu-latest
