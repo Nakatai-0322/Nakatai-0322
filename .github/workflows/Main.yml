@@ -85,6 +85,7 @@ jobs:
           plugin_wakatime_user: Nakatai_0322
           plugin_people: yes
           plugin_people_types: followers, following, thanks
+          plugin_people_limit: 999
   waka-read-me:
     name: waka-stats
     runs-on: ubuntu-latest
