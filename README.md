@@ -126,7 +126,7 @@ But, nice to meet you!
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -145,8 +145,8 @@ But, nice to meet you!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    232 commits    ██████░░░░░░░░░░░░░░░░░░░   27.2% 
-🌆 Daytime    289 commits    ████████░░░░░░░░░░░░░░░░░   33.88% 
+🌞 Morning    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.96% 
+🌆 Daytime    291 commits    ████████░░░░░░░░░░░░░░░░░   34.11% 
 🌃 Evening    331 commits    █████████░░░░░░░░░░░░░░░░   38.8% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
