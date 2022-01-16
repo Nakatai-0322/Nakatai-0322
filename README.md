@@ -127,7 +127,7 @@ But, nice to meet you!
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
@@ -135,7 +135,7 @@ But, nice to meet you!
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 368.0 kB Used in GitHub's Storage 
+> 📦 370.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
