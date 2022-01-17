@@ -117,7 +117,7 @@ But, nice to meet you!
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/lowlighter/metrics">
+<a href="https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml">
     <img src="./github-metrics.svg" alt="GitHub Metrics">
 </a>
 
