@@ -133,7 +133,7 @@ But, nice to meet you!
 
 > 🏆 274 Contributions in the Year 2022
  > 
-> 📦 398.2 kB Used in GitHub's Storage 
+> 📦 399.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -210,7 +210,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2022 10:22:05 UTC
+ Last Updated on 21/01/2022 12:31:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
