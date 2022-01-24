@@ -127,13 +127,13 @@ But, nice to meet you!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 296 Contributions in the Year 2022
+> 🏆 297 Contributions in the Year 2022
  > 
-> 📦 446.9 kB Used in GitHub's Storage 
+> 📦 477.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,8 +144,8 @@ But, nice to meet you!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    228 commits    ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-🌆 Daytime    302 commits    ████████░░░░░░░░░░░░░░░░░   33.86% 
+🌞 Morning    229 commits    ██████░░░░░░░░░░░░░░░░░░░   25.67% 
+🌆 Daytime    301 commits    ████████░░░░░░░░░░░░░░░░░   33.74% 
 🌃 Evening    361 commits    ██████████░░░░░░░░░░░░░░░   40.47% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
@@ -153,13 +153,13 @@ But, nice to meet you!
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+Monday       164 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
 Tuesday      82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
 Wednesday    52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
 Thursday     82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
 Friday       95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
 Saturday     225 commits    ██████░░░░░░░░░░░░░░░░░░░   25.22% 
-Sunday       193 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64%
+Sunday       192 commits    █████░░░░░░░░░░░░░░░░░░░░   21.52%
 
 ```
 
@@ -210,7 +210,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 20:58:40 UTC
+ Last Updated on 24/01/2022 09:15:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
