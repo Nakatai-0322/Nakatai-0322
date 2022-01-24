@@ -483,12 +483,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.97000869313243" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="160.97000869313243" y="0" width="160.91169226311214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="321.8817009562446" y="0" width="70.64618951028687" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="392.52789046653146" y="0" width="35.064836279339325" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="427.5927267458708" y="0" width="31.249275572297883" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="458.8420023181686" y="0" width="1.1579976818313533" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.05459619113196" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="161.05459619113196" y="0" width="160.9962491166398" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="322.05084530777174" y="0" width="70.44158950477468" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.4924348125464" y="0" width="35.08326236251291" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="427.5756971750593" y="0" width="31.26569663145306" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="458.8413938065124" y="0" width="1.1586061934875966" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -794,7 +794,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.1 characters per line of code written</li>
+                        <li>Has approximately 34.6 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -889,8 +889,8 @@
                         16
                     </div>
                     <div class="entry">
-                        <span class="value">26</span>
-                        <div class="bar" style="height: 34.21052631578947px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">24</span>
+                        <div class="bar" style="height: 31.57894736842105px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         17
                     </div>
                     <div class="entry">
@@ -909,8 +909,8 @@
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">12</span>
-                        <div class="bar" style="height: 15.789473684210526px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">14</span>
+                        <div class="bar" style="height: 18.421052631578945px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         21
                     </div>
                     <div class="entry">
@@ -930,8 +930,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">48</span>
-                            <div class="bar" style="height: 45.28301886792453px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">50</span>
+                            <div class="bar" style="height: 47.16981132075472px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -955,8 +955,8 @@
                             Fri
                         </div>
                         <div class="entry">
-                            <span class="value">24</span>
-                            <div class="bar" style="height: 22.641509433962266px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">22</span>
+                            <div class="bar" style="height: 20.754716981132077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -966,32 +966,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 33.76957630205172%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.879808043653014%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 21.141677795313825%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">26%</span>
+                            <div class="bar" style="width: 21.210689142773624%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">27%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 9.356804661891466%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 9.387347445860028%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">12%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 8.175792157338837%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.202479842147573%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">10%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Stylus</span>
-                            <div class="bar" style="width: 7.286147869369916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.0487929648486025%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 0.27000121403423577%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.2708825607171567%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3609,6 +3609,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Nakatai-0322/Nakatai-0322</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6630f9a</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Nakatai-0322/Nakatai-0322</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#275b407</div>
+                                        <div class="message">Charts Updated</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Nakatai-0322/Blog</span>
                                     </div>
                                 </div>
@@ -3657,46 +3697,6 @@
                                     <div class="commit">
                                         <div class="sha">#0754882</div>
                                         <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Nakatai-0322/Nakatai-0322</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8bba107</div>
-                                        <div class="message">Charts Updated</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Nakatai-0322/Nakatai-0322</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#270254e</div>
-                                        <div class="message">Charts Updated</div>
                                     </div>
                                 </div>
                             </section>
@@ -3955,7 +3955,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.593333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.8 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3977,7 +3977,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1238 times</div>
+                                <div class="text">Repositories have been deployed 1240 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4357,7 +4357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2022, 21:18:06 (timezone Asia/Tokyo) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 24 Jan 2022, 21:48:54 (timezone Asia/Tokyo) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
