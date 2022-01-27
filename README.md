@@ -133,7 +133,7 @@ But, nice to meet you!
 
 > 🏆 315 Contributions in the Year 2022
  > 
-> 📦 596.8 kB Used in GitHub's Storage 
+> 📦 606.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -212,7 +212,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 16:08:57 UTC
+ Last Updated on 27/01/2022 20:14:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
