@@ -115,7 +115,7 @@ But, nice to meet you!
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Metrics](./github-metrics.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml){:target="_blank"}
+[![GitHub Metrics](./github-metrics.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml)
 
 <details>
 <summary>
