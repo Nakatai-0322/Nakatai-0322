@@ -106,7 +106,7 @@ But, nice to meet you!
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://wakatime.com/share/@Nakatai_0322/2bf48539-cc4a-4f69-a2c7-177457d591e6.svg">
+<a href="https://wakatime.com/share/@Nakatai_0322/acc10104-c7ee-4745-bfdb-ec0133eb3cbd.svg">
     <img src="https://wakatime.com/share/@Nakatai_0322/2bf48539-cc4a-4f69-a2c7-177457d591e6.svg" width="600">
 </a>
 
