@@ -1,3 +1,4 @@
 # VS Code・WebStormのファイルはガン無視。
 .vscode/
 .idea/
+node_modules/
