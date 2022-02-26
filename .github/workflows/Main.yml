@@ -2,10 +2,10 @@ name: Main
 
 on:
   repository_dispatch:
-      types: [test_trigger]
+    types: [test_trigger]
   workflow_dispatch:
   schedule:
-      - cron: '* 6,9,12,15,20 * * *'
+    - cron: "* 6,9,12,15,20 * * *"
 
 jobs:
   github-metrics:
@@ -27,7 +27,7 @@ jobs:
           plugin_reactions_details: count, percentage
           plugin_reactions_ignored: bot
           plugin_achievements: yes
-          plugin_achievements_threshold: B 
+          plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
           plugin_achievements_ignored: octonaut
           plugin_achievements_limit: 0
@@ -90,7 +90,7 @@ jobs:
     name: waka-stats
     runs-on: ubuntu-latest
     steps:
-        - uses: anmol098/waka-readme-stats@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
