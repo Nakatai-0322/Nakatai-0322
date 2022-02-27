@@ -122,7 +122,7 @@ But, nice to meet you!
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -130,7 +130,7 @@ But, nice to meet you!
 
 > 🏆 495 Contributions in the Year 2022
  > 
-> 📦 652.0 kB Used in GitHub's Storage 
+> 📦 664.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -205,7 +205,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 06:38:53 UTC
+ Last Updated on 27/02/2022 09:14:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
