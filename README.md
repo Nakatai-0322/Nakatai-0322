@@ -105,7 +105,7 @@ But, nice to meet you!
 
 [<img width="400" alt="general" src="/general.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/general.svg)
 [<img width="400" alt="medias" src="/medias.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/medias.svg)
-[<img width="400" alt="achievements" src="/achievements.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/achievements.svg)
+[<img width="350" alt="achievements" src="/achievements.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/achievements.svg)
 
 | [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF">](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)| [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact) |
 | --- | --- |
