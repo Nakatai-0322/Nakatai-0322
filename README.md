@@ -117,6 +117,8 @@ But, nice to meet you!
 [<img align="left" width="390" alt="" src="/general.svg">](https://go.nakatai.ga/github)
 [<img align="right" width="390" alt="" src="/medias.svg">](https://nakatai.ga)
 
+<br>
+
 <details>
 <summary>
     詳細なステータス
