@@ -103,16 +103,16 @@ But, nice to meet you!
 
 [![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
 
-[![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img width="390" alt="general" src="/general.svg">](https://go.nakatai.ga/github)
+[<img width="390" alt="medias" src="/medias.svg">](https://nakatai.ga)
+[<img width="390" alt="achievements" src="/achievements.svg">](https://nakatai.ga)
+
+[<img width="390" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF">](https://go.nakatai.ga/github)
+[<img width="390" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact">](https://go.nakatai.ga/github)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[<img width="390" alt="general" src="/general.svg">](https://go.nakatai.ga/github)
-[<img width="390" alt="medias" src="/medias.svg">](https://nakatai.ga)
-[<img width="390" alt="achievements" src="/achievements.svg">](https://nakatai.ga)
 
 <details>
 <summary>
