@@ -101,8 +101,6 @@ But, nice to meet you!
 
 ## GitHubプロフィール
 
-[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
-
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -121,6 +119,8 @@ But, nice to meet you!
 <summary>
     詳細なステータス
 </summary>
+
+[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2016%20mins-blue)
