@@ -103,9 +103,9 @@ But, nice to meet you!
 
 [![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
 
-[<img width="390" alt="general" src="/general.svg">](https://go.nakatai.ga/github)
-[<img width="390" alt="medias" src="/medias.svg">](https://nakatai.ga)
-[<img width="390" alt="achievements" src="/achievements.svg">](https://nakatai.ga)
+[<img width="400" alt="general" src="/general.svg">](https://go.nakatai.ga/github)
+[<img width="400" alt="medias" src="/medias.svg">](https://nakatai.ga)
+[<img width="400" alt="achievements" src="/achievements.svg">](https://nakatai.ga)
 
 | [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF">](https://go.nakatai.ga/github)| [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact">](https://go.nakatai.ga/github) |
 | ------------- | ------------- |
