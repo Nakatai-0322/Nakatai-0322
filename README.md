@@ -114,7 +114,10 @@ But, nice to meet you!
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="/general.svg" alt="General"> <img src="/medias.svg" alt="Media">
+[<img align="left" width="390" alt="" src="/general.svg">](https://go.nakatai.ga/github)
+[<img align="right" width="390" alt="" src="/medias.svg">](https://nakatai.ga)
+
+<img src="/general.svg" alt="General"> <img src="" alt="Media">
 
 <details>
 <summary>
