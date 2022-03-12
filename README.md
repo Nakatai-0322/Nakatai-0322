@@ -89,7 +89,7 @@ But, nice to meet you!
 [![Twitter Badge](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://go.nakatai.ga/twitter)
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://go.nakatai.ga/youtube)
 
-[![Discord Badge](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/584692865939275779)
+[![Discord Badge](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/584692865939275779)
 
 ## 自己紹介
 
