@@ -57,7 +57,7 @@ jobs:
           output_action: gist
           plugin_music: yes
           plugin_music_provider: spotify
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           plugin_music_limit: 9
   waka-read-me:
     name: waka-stats
