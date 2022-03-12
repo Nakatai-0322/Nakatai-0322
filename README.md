@@ -93,11 +93,11 @@ But, nice to meet you!
 
 ## 自己紹介
 
-個人的な自己紹介は，[こちら](https://go.nakatai.ga/pr)を参照
+個人的な自己紹介は、[こちら](https://go.nakatai.ga/pr)を参照
 
-ポートフォリオは，[こちら](https://portfolio.nakatai.ga)です。
+ポートフォリオは、[こちら](https://portfolio.nakatai.ga)です。
 
-[FREESERVER](https://freeserver.pro)運営としての自己紹介は，[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)を参照
+[FREESERVER](https://freeserver.pro)運営としての自己紹介は、[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)を参照
 
 ## GitHubプロフィール
 
@@ -114,7 +114,7 @@ But, nice to meet you!
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Metrics](./github-metrics.svg)](https://github.com/Nakatai-0322/Nakatai-0322/actions/workflows/Metrics.yml)
+<img src="/general.svg" alt="General"> <img src="/medias.svg" alt="Media">
 
 <details>
 <summary>
