@@ -8,8 +8,8 @@ on:
     - cron: "* 6,9,12,15,20 * * *"
 
 jobs:
-  github-metrics:
-    name: metrics
+  github-metrics-general:
+    name: metrics-general
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -17,72 +17,37 @@ jobs:
           user: Nakatai-0322
           config_gemoji: yes
           config_timezone: Asia/Tokyo
-          retries: 3
-          retries_delay: 300
-          use_prebuilt_image: yes
+          filename: general.svg
           token: ${{ secrets.GH_TOKEN }}
-          plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_days: 14
-          plugin_reactions_details: count, percentage
-          plugin_reactions_ignored: bot
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
+          base: header
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 4
-          plugin_tweets_user: Nakatai_0322
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: recent
-          plugin_music_limit: 4
-          plugin_music_played_at: yes
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_repositories: yes
-          plugin_repositories_featured: freeserverproject/freeserver-wiki, Nakatai-0322/Nakatai-0322, Nakatai-0322/Nakatai-0322.github.io
-          plugin_rss: yes
-          plugin_rss_source: https://nakatai.ga/rss.xml
-          plugin_rss_limit: 10
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          commits_authoring: nakatai0322@gmail.com, info@nakatai.ga
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
           plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: icons
           plugin_topics_limit: 0
+          plugin_topics_mode: icons
           plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_stargazers: yes
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_visibility: public
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_limit: 4
-          plugin_wakatime_user: Nakatai_0322
-          plugin_people: yes
-          plugin_people_types: followers, following, thanks
-          plugin_people_limit: 999
+          plugin_discussions: yes
+  github-metrics-medias:
+    name: metrics-medias
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: medias.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          config_order: anilist, music
+          output_action: gist
+          plugin_music: yes
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_limit: 9
   waka-read-me:
     name: waka-stats
     runs-on: ubuntu-latest
