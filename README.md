@@ -120,7 +120,7 @@ But, nice to meet you!
 
 ### 詳細ステータス
 
-<details>
+<details style="text-align=center">
 <summary>
     詳細なステータス
 </summary>
