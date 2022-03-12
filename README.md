@@ -101,12 +101,10 @@ But, nice to meet you!
 
 ## GitHubプロフィール
 
+[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
+
 [![Nakatai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com/share/@Nakatai_0322/acc10104-c7ee-4745-bfdb-ec0133eb3cbd.svg">
-    <img src="https://wakatime.com/share/@Nakatai_0322/2bf48539-cc4a-4f69-a2c7-177457d591e6.svg" width="600">
-</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
 
@@ -121,7 +119,9 @@ But, nice to meet you!
     詳細なステータス
 </summary>
 
-[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
+<a href="https://wakatime.com/share/@Nakatai_0322/acc10104-c7ee-4745-bfdb-ec0133eb3cbd.svg">
+    <img src="https://wakatime.com/share/@Nakatai_0322/2bf48539-cc4a-4f69-a2c7-177457d591e6.svg" width="600">
+</a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2016%20mins-blue)
