@@ -22,7 +22,6 @@ jobs:
           base: header
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
@@ -34,6 +33,17 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+  github-metrics-Achievements:
+    name: Achievements
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
   github-metrics-medias:
     name: metrics-medias
     runs-on: ubuntu-latest
