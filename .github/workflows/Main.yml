@@ -33,6 +33,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
   github-metrics-achievements:
     name: metrics-achievements
     runs-on: ubuntu-latest
@@ -58,7 +59,12 @@ jobs:
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
           plugin_music_limit: 9
+          plugin_rss: yes
+          plugin_rss_source: https://nakatai.ga/rss.xml
+          plugin_rss_limit: 8
   waka-read-me:
     name: waka-stats
     runs-on: ubuntu-latest
