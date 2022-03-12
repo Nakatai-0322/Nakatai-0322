@@ -102,6 +102,7 @@ But, nice to meet you!
 ## GitHubプロフィール
 
 [![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
+
 [<img width="390" alt="general" src="/general.svg">](https://go.nakatai.ga/github)
 [<img width="390" alt="medias" src="/medias.svg">](https://nakatai.ga)
 [<img width="390" alt="achievements" src="/achievements.svg">](https://nakatai.ga)
