@@ -1,23 +1,23 @@
 # Nakatai_0322
 
-<img src="//avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
+<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
 <a href="https://go.nakatai.ga/twitter">
-    <img src="//i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
+    <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
 </a>
 
-<img src="//github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits" width="600">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits" width="600">
 
 - Links
 
 <a href="https://nakatai.ga">
-    <img src="//i.imgur.com/HrGRBcm.png" width="50">
+    <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
 <a href="https://go.nakatai.ga/devto">
-    <img src="//cdn.worldvectorlogo.com/logos/devto.svg" width="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="50">
 </a>
 <a href="https://go.nakatai.ga/twitter">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
 ## At First
@@ -37,49 +37,49 @@ But, nice to meet you!
 ### I can write/use...(I'm **NOT** Perfect)
 
 <a href="https://w.wiki/3PyA">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
 <a href="https://w.wiki/3Q2Z">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
 <a href="https://w.wiki/45PM">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
 </a>
 <a href="https://w.wiki/3e37">
-    <img src="//i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
+    <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
 </a>
 <a href="https://w.wiki/4RTG">
-    <img src="//cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
 </a>
 <a href="https://w.wiki/3PyA">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
 
 ### I am learning...
 
 <a href="https://w.wiki/3EDd">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 </a>
 <a href="https://w.wiki/3MgB">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
 </a>
 
 ## I using...
 
 <a href="https://w.wiki/45Po">
-    <img src="//design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="Firefox Developer Edition" width="50">
+    <img src="https://design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="Firefox Developer Edition" width="50">
 </a>
 <a href="https://w.wiki/3e77">
-    <img src="//upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" width="50">
 </a>
 <a href="https://w.wiki/45Ph">
-    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50">
 </a>
 <a href="https://w.wiki/45PU">
-    <img src="//upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Microsoft Office" width=50>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Microsoft Office" width=50>
 </a>
 <a href="https://w.wiki/3LXC">
-    <img src="//upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
 </a>
 
 ## Badges
