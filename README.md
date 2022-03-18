@@ -67,19 +67,19 @@ But, nice to meet you!
 ## I using...
 
 <a href="https://w.wiki/45Po">
-    <img src="https://design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="Firefox Developer Edition" width="50">
+    <img src="//design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="Firefox Developer Edition" width="50">
 </a>
 <a href="https://w.wiki/3e77">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" width="50">
+    <img src="//upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" width="50">
 </a>
 <a href="https://w.wiki/45Ph">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50">
 </a>
 <a href="https://w.wiki/45PU">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Microsoft Office" width=50>
+    <img src="//upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Microsoft Office" width=50>
 </a>
 <a href="https://w.wiki/3LXC">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
+    <img src="//upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
 </a>
 
 ## Badges
