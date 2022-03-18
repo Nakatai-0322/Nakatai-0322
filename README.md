@@ -1,23 +1,23 @@
 # Nakatai_0322
 
-<img src="https://avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
+<img src="//avatars.githubusercontent.com/u/65397124?v=4" width="200"> / <img src="https://minotar.net/helm/d297f52003024e5d944fd78edc82891a" width="200">
 
 <a href="https://go.nakatai.ga/twitter">
-    <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
+    <img src="//i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
 </a>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits" width="600">
+<img src="//github-widgetbox.vercel.app/api/profile?username=Nakatai-0322&data=followers,repositories,stars,commits" width="600">
 
 - Links
 
 <a href="https://nakatai.ga">
-    <img src="https://i.imgur.com/HrGRBcm.png" width="50">
+    <img src="//i.imgur.com/HrGRBcm.png" width="50">
 </a>
 <a href="https://go.nakatai.ga/devto">
-    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="50">
+    <img src="//cdn.worldvectorlogo.com/logos/devto.svg" width="50">
 </a>
 <a href="https://go.nakatai.ga/twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
 ## At First
@@ -37,31 +37,31 @@ But, nice to meet you!
 ### I can write/use...(I'm **NOT** Perfect)
 
 <a href="https://w.wiki/3PyA">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
 <a href="https://w.wiki/3Q2Z">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
 <a href="https://w.wiki/45PM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
 </a>
 <a href="https://w.wiki/3e37">
-    <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
+    <img src="//i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
 </a>
 <a href="https://w.wiki/4RTG">
-    <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
+    <img src="//cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="50">
 </a>
 <a href="https://w.wiki/3PyA">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
 
 ### I am learning...
 
 <a href="https://w.wiki/3EDd">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 </a>
 <a href="https://w.wiki/3MgB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
+    <img src="//cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50">
 </a>
 
 ## I using...
