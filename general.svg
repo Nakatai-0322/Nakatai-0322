@@ -1139,8 +1139,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.8923269686487" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.8923269686487" y="0" width="19.107673031351293" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.8563024294586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.8563024294586" y="0" width="19.143697570541455" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1154,7 +1154,7 @@
                             <small>
                                 <div>1.17k lines</div>
                                 <div>35.1 kB</div>
-                                <div>95.85%</div>
+                                <div>95.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1165,9 +1165,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>44 lines</div>
-                                <div>1.52 kB</div>
-                                <div>4.15%</div>
+                                <div>45 lines</div>
+                                <div>1.53 kB</div>
+                                <div>4.16%</div>
                             </small>
                         </div>
                     </section>
