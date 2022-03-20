@@ -111,13 +111,9 @@ But, nice to meet you!
 | --- | --- |
 
 
-<div style="text-align: center;">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56" alt="GitHub Streak"></a>
-</div>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56" alt="GitHub Streak"></a>
 
-<div style="text-align: center;">
-    [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)
 
 
 <details>
