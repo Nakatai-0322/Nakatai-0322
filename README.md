@@ -112,7 +112,7 @@ But, nice to meet you!
 
 
 <div style="text-align: center;">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56)](https://git.io/streak-stats)
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56" alt="GitHub Streak"></a>
 </div>
 
 <div style="text-align: center;">
