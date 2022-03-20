@@ -221,7 +221,11 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 ## 連絡先
 
-![Nakatai's Minecraft Skin](https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay)
+![Nakatai's Minecraft Skin]()
+
+<a href="https://go.nakatai.ga/namemc">
+    <img src="https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay" width="50">
+</a>
 
 ブログ・ホームページ:<https://nakatai.ga>
 
