@@ -69,7 +69,7 @@ But, nice to meet you!
 <a href="https://w.wiki/45Po">
     <img src="https://design.firefox.com/product-identity/firefox-developer-edition/firefox-logo-developer-edition.svg" alt="Firefox Developer Edition" width="50">
 </a>
-<a href="https://w.wiki/3e77">
+<a href="https://w.wiki/4yFG">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" width="50">
 </a>
 <a href="https://w.wiki/45Ph">
