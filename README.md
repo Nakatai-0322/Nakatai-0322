@@ -54,6 +54,15 @@ But, nice to meet you!
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
+<a href="https://w.wiki/3Hp2">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50">
+</a>
+<a href="https://w.wiki/42ii">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
+</a>
+<a href="https://w.wiki/4yq3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
+</a>
 
 ### I am learning...
 
