@@ -61,7 +61,7 @@ But, nice to meet you!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
 </a>
 <a href="https://w.wiki/4yq3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="50">
 </a>
 
 ### I am learning...
