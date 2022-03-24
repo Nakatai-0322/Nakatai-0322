@@ -1168,14 +1168,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 96 edited files from 278 commits over last 5 days</small>
+                <small>estimation from 93 edited files from 278 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.87342157310206" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="403.87342157310206" y="0" width="56.126578426897915" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.42717854966486" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="404.42717854966486" y="0" width="55.572821450335155" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1189,7 +1189,7 @@
                             <small>
                                 <div>80 lines</div>
                                 <div>5.77 kB</div>
-                                <div>87.8%</div>
+                                <div>87.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1200,9 +1200,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>15 lines</div>
-                                <div>802 bytes</div>
-                                <div>12.2%</div>
+                                <div>16 lines</div>
+                                <div>793 bytes</div>
+                                <div>12.08%</div>
                             </small>
                         </div>
                     </section>
