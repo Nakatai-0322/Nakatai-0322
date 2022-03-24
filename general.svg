@@ -1168,14 +1168,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 93 edited files from 278 commits over last 5 days</small>
+                <small>estimation from 89 edited files from 277 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="404.42717854966486" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="404.42717854966486" y="0" width="55.572821450335155" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.1076119639183" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="420.1076119639183" y="0" width="39.892388036081655" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1189,20 +1189,20 @@
                             <small>
                                 <div>80 lines</div>
                                 <div>5.77 kB</div>
-                                <div>87.92%</div>
+                                <div>91.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                JavaScript
                             </div>
                             <small>
-                                <div>16 lines</div>
-                                <div>793 bytes</div>
-                                <div>12.08%</div>
+                                <div>22 lines</div>
+                                <div>548 bytes</div>
+                                <div>8.67%</div>
                             </small>
                         </div>
                     </section>
