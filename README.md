@@ -135,15 +135,13 @@ But, nice to meet you!
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 923 Contributions in the Year 2022
  > 
-> 📦 824.3 kB Used in GitHub's Storage 
+> 📦 824.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -220,7 +218,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 12:54:17 UTC
+ Last Updated on 27/03/2022 15:16:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
