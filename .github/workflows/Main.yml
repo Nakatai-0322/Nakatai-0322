@@ -16,7 +16,6 @@ jobs:
         with:
           user: .user.login
           config_gemoji: yes
-          use_prebuilt_image: yes
           config_timezone: Asia/Tokyo
           filename: general.svg
           token: ${{ secrets.GH_TOKEN }}
