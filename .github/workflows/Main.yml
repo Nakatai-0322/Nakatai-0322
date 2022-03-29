@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: Nakatai-0322
+          user: .user.login
           config_gemoji: yes
           config_timezone: Asia/Tokyo
           filename: general.svg
@@ -27,7 +27,8 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
-          plugin_languages_limit: 2
+          plugin_languages_recent_days: 7
+          plugin_languages_limit: 4
           plugin_topics: yes
           plugin_topics_limit: 20
           plugin_topics_mode: icons
