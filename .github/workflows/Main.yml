@@ -40,6 +40,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Asia/Tokyo
           filename: achievements.svg
           token: ${{ secrets.GH_TOKEN }}
           base: ""
@@ -54,6 +55,7 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.GH_TOKEN }}
           base: ""
+          config_timezone: Asia/Tokyo
           config_order: anilist, music
           output_action: gist
           plugin_music: yes
