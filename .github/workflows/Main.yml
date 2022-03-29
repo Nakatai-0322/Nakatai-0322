@@ -29,7 +29,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 20
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
@@ -57,7 +57,6 @@ jobs:
           base: ""
           config_timezone: Asia/Tokyo
           config_order: anilist, music
-          output_action: gist
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
