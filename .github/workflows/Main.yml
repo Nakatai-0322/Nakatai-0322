@@ -46,7 +46,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
   github-metrics-medias:
     name: metrics-medias
     runs-on: ubuntu-latest
