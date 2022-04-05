@@ -1192,9 +1192,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.59198813056378" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="219.59198813056378" y="0" width="187.85608308605342" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="407.4480712166172" y="0" width="52.55192878338279" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.40953090096798" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="220.40953090096798" y="0" width="186.84288905435594" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="407.25241995532394" y="0" width="52.7475800446761" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1208,7 +1208,7 @@
                             <small>
                                 <div>140 lines</div>
                                 <div>2.57 kB</div>
-                                <div>47.74%</div>
+                                <div>47.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1220,8 +1220,8 @@
                             </div>
                             <small>
                                 <div>89 lines</div>
-                                <div>2.20 kB</div>
-                                <div>40.84%</div>
+                                <div>2.18 kB</div>
+                                <div>40.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1234,7 +1234,7 @@
                             <small>
                                 <div>24 lines</div>
                                 <div>616 bytes</div>
-                                <div>11.42%</div>
+                                <div>11.47%</div>
                             </small>
                         </div>
                     </section>
