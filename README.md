@@ -135,9 +135,9 @@ But, nice to meet you!
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
 
 **🐱 My GitHub Data** 
 
@@ -168,8 +168,8 @@ Tuesday      115 commits    ██░░░░░░░░░░░░░░░�
 Wednesday    85 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
 Thursday     119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
 Friday       138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Saturday     457 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
-Sunday       255 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.22%
+Saturday     460 commits    ████████░░░░░░░░░░░░░░░░░   34.66% 
+Sunday       252 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.99%
 
 ```
 
@@ -219,7 +219,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/04/2022 09:33:29 UTC
+ Last Updated on 09/04/2022 09:44:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
