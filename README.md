@@ -247,7 +247,7 @@ WakaTime:<https://go.nakatai.ga/wakatime>
 
 メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
 
-Discord:[`Nakatai_0322#6872`](https://discordapp.com/users/584692865939275779)
+Discord:[`Nakatai_0322#6872`](https://go.nakatai.ga/discord)
 
 MCID:[`Nakatai_0322`](https://go.nakatai.ga/namemc)
 
