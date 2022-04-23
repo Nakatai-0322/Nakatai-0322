@@ -42,9 +42,6 @@ But, nice to meet you!
 <a href="https://w.wiki/3Q2Z">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
-<a href="https://w.wiki/45PM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
-</a>
 <a href="https://w.wiki/3e37">
     <img src="https://i.imgur.com/TJmJbkE.png" alt="Batch Script" width="50">
 </a>
@@ -53,9 +50,6 @@ But, nice to meet you!
 </a>
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
-</a>
-<a href="https://w.wiki/3Hp2">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50">
 </a>
 <a href="https://w.wiki/42ii">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
@@ -89,6 +83,12 @@ But, nice to meet you!
 </a>
 <a href="https://w.wiki/3LXC">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" width="50">
+</a>
+<a href="https://w.wiki/3Hp2">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50">
+</a>
+<a href="https://w.wiki/45PM">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
 </a>
 
 ## Badges
