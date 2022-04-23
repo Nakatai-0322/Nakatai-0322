@@ -51,18 +51,21 @@ But, nice to meet you!
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
 </a>
-<a href="https://w.wiki/42ii">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
-</a>
 <a href="https://w.wiki/4yq3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="50">
 </a>
 
-### I am learning...
+### I can use a little...
 
 <a href="https://w.wiki/3EDd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 </a>
+<a href="https://w.wiki/42ii">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
+</a>
+
+### I am learning...
+
 <a href="https://w.wiki/55wc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
 </a>
