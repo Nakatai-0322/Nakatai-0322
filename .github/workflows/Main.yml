@@ -21,7 +21,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: header
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
