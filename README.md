@@ -60,11 +60,11 @@ But, nice to meet you!
 <a href="https://w.wiki/3EDd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
 </a>
-<a href="https://w.wiki/42ii">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
-</a>
 <a href="https://w.wiki/3e6S">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50">
+</a>
+<a href="https://w.wiki/42ii">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
 </a>
 
 ### I am learning...
