@@ -151,7 +151,7 @@ But, nice to meet you!
 
 > 🏆 1,236 Contributions in the Year 2022
  > 
-> 📦 935.1 kB Used in GitHub's Storage 
+> 📦 935.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -228,7 +228,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 20:58:06 UTC
+ Last Updated on 30/04/2022 06:44:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
