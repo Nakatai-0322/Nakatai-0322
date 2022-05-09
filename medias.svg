@@ -62,6 +62,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">ブログをまた変えました。</div>
+                                <div class="date">12 Dec 2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">テーマ変えました。</div>
                                 <div class="date">18 Dec 2021</div>
                             </div>
@@ -80,8 +89,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHubのOrganizationの公開設定に苦労した話</div>
-                                <div class="date">10 Jan 2022</div>
+                                <div class="title">ペンタブを買った話</div>
+                                <div class="date">3 Jan 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -98,17 +107,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ずっと隠しててごめんなさい。実は○○○でした。</div>
-                                <div class="date">2 May 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">ブログをまた変えました。</div>
-                                <div class="date">12 Dec 2021</div>
+                                <div class="title">プライバシーポリシー</div>
+                                <div class="date">20 Dec 2021</div>
                             </div>
                         </div>
                     </section>
