@@ -143,9 +143,9 @@ But, nice to meet you!
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
@@ -226,7 +226,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/05/2022 10:19:42 UTC
+ Last Updated on 09/05/2022 12:29:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
