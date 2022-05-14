@@ -1169,7 +1169,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.79kb of code in 15 edited files across 292 commits over last 7 days</small>
+                <small>estimation from 1.76kb of code in 15 edited files across 292 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1187,8 +1187,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>26 lines</div>
-                                <div>524 bytes</div>
+                                <div>25 lines</div>
+                                <div>493 bytes</div>
                                 <div>100%</div>
                             </small>
                         </div>
