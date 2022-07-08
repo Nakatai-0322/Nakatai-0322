@@ -30,6 +30,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_topics_mode: icons
           plugin_discussions_categories_limit: 8
+          plugin_languages_ignored: Berry
   github-metrics-achievements:
     name: metrics-achievements
     runs-on: ubuntu-latest
