@@ -27,7 +27,7 @@
                                 <div class="infos">
                                     <div class="name">悔やむと書いてミライ (feat. 宵崎奏&amp;朝比奈まふゆ&amp;東雲絵名&amp;暁山瑞希&amp;初音ミク)</div>
                                     <div class="artist">25時、ナイトコードで。</div>
-                                    <div class="played-at">Played at 06:36:13 on 16 Jul 2022</div>
+                                    <div class="played-at">Played at 06:43:48 on 16 Jul 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -65,6 +65,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">香川県の「香川県ネット・ゲーム依存症対策条例」について</div>
+                                <div class="date">18 Nov 2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">ブログをまた変えました。</div>
                                 <div class="date">12 Dec 2021</div>
                             </div>
@@ -76,15 +85,6 @@
                             <div class="infos">
                                 <div class="title">テーマ変えました。</div>
                                 <div class="date">18 Dec 2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">香川県の「香川県ネット・ゲーム依存症対策条例」について</div>
-                                <div class="date">18 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -119,8 +119,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CPUのピンが欠落し死んだ話</div>
-                                <div class="date">10 Jul 2022</div>
+                                <div class="title">バイセクシュアルについて</div>
+                                <div class="date">11 Jul 2022</div>
                             </div>
                         </div>
                     </section>
