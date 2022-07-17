@@ -22,15 +22,15 @@
 
 ## At First
 
-Hi! everyone!
+Hi, there!
 
 I'm Nakatai.
 
-I'm a developer **kind of** guy.
+I'm a apprentice　developer.
 
-And I am crazy human.
+I'm glad to meet you.
 
-But, nice to meet you!
+Nice to meet you.
 
 ## Skills
 
