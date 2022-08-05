@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1164,19 +1164,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 64.3kb of code in 86 edited files across 267 commits over last 6 days</small>
+                <small>estimation from 65.2kb of code in 87 edited files across 267 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.3479135243841" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="372.3479135243841" y="0" width="42.785319255907496" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="415.1332327802916" y="0" width="40.93514328808447" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.0683760683761" y="0" width="3.931623931623932" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.3480741797432" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="212.3480741797432" y="0" width="209.19828815977175" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.546362339515" y="0" width="36.2225392296719" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.7689015691868" y="0" width="2.231098430813124" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Vue
+                            </div>
+                            <small>
+                                <div>69 lines</div>
+                                <div>1.62 kB</div>
+                                <div>46.16%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1186,21 +1199,8 @@
                             </div>
                             <small>
                                 <div>69 lines</div>
-                                <div>1.61 kB</div>
-                                <div>80.95%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Vue
-                            </div>
-                            <small>
-                                <div>8 lines</div>
-                                <div>185 bytes</div>
-                                <div>9.3%</div>
+                                <div>1.59 kB</div>
+                                <div>45.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1211,9 +1211,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5 lines</div>
-                                <div>177 bytes</div>
-                                <div>8.9%</div>
+                                <div>6 lines</div>
+                                <div>276 bytes</div>
+                                <div>7.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1226,7 +1226,7 @@
                             <small>
                                 <div>1 line</div>
                                 <div>17 bytes</div>
-                                <div>0.85%</div>
+                                <div>0.49%</div>
                             </small>
                         </div>
                     </section>
