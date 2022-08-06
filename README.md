@@ -146,13 +146,13 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,352 Contributions in the Year 2022
+> 🏆 2,353 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -165,9 +165,9 @@ Nice to meet you.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    595 commits    ███████░░░░░░░░░░░░░░░░░░   30.61% 
+🌞 Morning    594 commits    ███████░░░░░░░░░░░░░░░░░░   30.56% 
 🌆 Daytime    466 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-🌃 Evening    879 commits    ███████████░░░░░░░░░░░░░░   45.22% 
+🌃 Evening    880 commits    ███████████░░░░░░░░░░░░░░   45.27% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
@@ -232,7 +232,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2022 09:31:11 UTC
+ Last Updated on 06/08/2022 09:40:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
