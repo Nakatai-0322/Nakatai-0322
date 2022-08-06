@@ -146,7 +146,7 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -166,8 +166,8 @@ Nice to meet you.
 
 ```text
 🌞 Morning    594 commits    ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌆 Daytime    466 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-🌃 Evening    880 commits    ███████████░░░░░░░░░░░░░░   45.27% 
+🌆 Daytime    465 commits    ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+🌃 Evening    881 commits    ███████████░░░░░░░░░░░░░░   45.32% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 ```
@@ -232,7 +232,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2022 09:40:08 UTC
+ Last Updated on 06/08/2022 09:48:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
