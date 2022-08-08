@@ -152,8 +152,6 @@ Nice to meet you.
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,438 Contributions in the Year 2022
- > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -232,7 +230,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2022 21:55:27 UTC
+ Last Updated on 08/08/2022 22:21:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
