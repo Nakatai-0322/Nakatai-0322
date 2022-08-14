@@ -146,7 +146,7 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -179,8 +179,8 @@ Tuesday      187 commits    ██░░░░░░░░░░░░░░░�
 Wednesday    149 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
 Thursday     232 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
 Friday       217 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-Saturday     520 commits    ██████░░░░░░░░░░░░░░░░░░░   27.21% 
-Sunday       368 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.26%
+Saturday     514 commits    ██████░░░░░░░░░░░░░░░░░░░   26.9% 
+Sunday       374 commits    █████░░░░░░░░░░░░░░░░░░░░   19.57%
 
 ```
 
@@ -230,7 +230,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 09:51:56 UTC
+ Last Updated on 14/08/2022 12:23:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
