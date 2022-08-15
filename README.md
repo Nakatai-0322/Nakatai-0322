@@ -146,7 +146,7 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -230,7 +230,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 09:33:55 UTC
+ Last Updated on 15/08/2022 09:45:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
