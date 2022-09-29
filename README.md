@@ -69,9 +69,6 @@ Nice to meet you.
 
 ### I am learning...
 
-<a href="https://w.wiki/55wc">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
-</a>
 <a href="https://w.wiki/45Pm">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50">
 </a>
