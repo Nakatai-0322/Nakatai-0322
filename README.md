@@ -143,13 +143,13 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,396 Contributions in the Year 2022
+> 🏆 3,397 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -174,8 +174,8 @@ Nice to meet you.
 Monday       239 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
 Tuesday      212 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Wednesday    149 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
-Thursday     231 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Friday       212 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
+Thursday     232 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+Friday       211 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
 Saturday     544 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
 Sunday       354 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24%
 
@@ -226,7 +226,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2022 09:33:12 UTC
+ Last Updated on 06/10/2022 12:42:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
