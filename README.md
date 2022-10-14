@@ -26,7 +26,7 @@ Hi, there!
 
 I'm Nakatai.
 
-I'm a apprentice　developer.
+I'm a apprentice developer.
 
 I'm glad to meet you.
 
