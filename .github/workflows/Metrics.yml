@@ -20,7 +20,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: header
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
@@ -28,12 +27,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_days: 7
           plugin_languages_limit: 4
-          plugin_topics: yes
-          plugin_topics_limit: 20
           plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
           plugin_discussions_categories_limit: 8
+          plugin_languages_ignored: Berry
   github-metrics-achievements:
     name: metrics-achievements
     runs-on: ubuntu-latest
@@ -63,5 +59,5 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_limit: 9
           plugin_rss: yes
-          plugin_rss_source: https://nakatai.ga/rss.xml
+          plugin_rss_source: https://nakatai.xyz/rss.xml
           plugin_rss_limit: 8
