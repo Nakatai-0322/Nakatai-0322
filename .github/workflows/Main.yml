@@ -60,7 +60,7 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_limit: 9
           plugin_rss: yes
-          plugin_rss_source: https://nakatai.ga/rss.xml
+          plugin_rss_source: https://nakatai.xyz/rss.xml
           plugin_rss_limit: 8
   waka-read-me:
     name: waka-stats
