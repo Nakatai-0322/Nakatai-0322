@@ -122,13 +122,11 @@ Nice to meet you.
 [<img width="400" alt="medias" src="/medias.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/medias.svg)
 [<img width="400" alt="achievements" src="/achievements.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/achievements.svg)
 
-| [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF">](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&bg_color=22272e&border_color=444C56&text_color=FFFFFF)| [<img align="center" width="300" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&bg_color=22272e&border_color=444C56&text_color=FFFFFF&layout=compact) |
+| [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true">](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true)| [<img align="center" width="300" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&layout=compact) |
 | --- | --- |
 
 
-<a href="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&background=00000000&ring=444C56&stroke=22272E&border=444C56" alt="GitHub Streak">
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&theme=dark" alt="GitHub Streak">
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)
 
