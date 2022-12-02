@@ -128,7 +128,7 @@ Nice to meet you.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&theme=dark" alt="GitHub Streak">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=dark_dimmed&no-frame=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=discord&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=discord&no-frame=true)
 
 
 <details>
