@@ -141,30 +141,30 @@ Nice to meet you.
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,616 Contributions in the Year 2022
+> 🏆 52 Contributions in the Year 2023
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 69 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+HTML                     11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73% 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
@@ -174,7 +174,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 21:21:40 UTC
+ Last Updated on 12/01/2023 21:17:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
