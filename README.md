@@ -186,16 +186,20 @@ Sunday       324 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 52 mins        ███████████████████████░░   92.34% 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 1 min         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+msj-introv-credit        2 hrs 1 min         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -216,7 +220,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2023 21:17:50 UTC
+ Last Updated on 30/01/2023 09:21:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
