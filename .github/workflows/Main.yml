@@ -63,7 +63,7 @@ jobs:
           plugin_rss_source: https://nakatai.xyz/rss.xml
           plugin_rss_limit: 8
   update-readme:
-    name: Update this repo's README
+    name: waka-stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
