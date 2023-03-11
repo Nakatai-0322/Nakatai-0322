@@ -5,7 +5,7 @@ on:
     types: [test_trigger]
   workflow_dispatch:
   schedule:
-    - cron: "0 9,12,21 * * *"
+    - cron: "0 4 * * *"
 
 jobs:
   github-metrics-general:
