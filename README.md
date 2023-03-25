@@ -10,7 +10,7 @@
 
 - Links
 
-<a href="https://nakatai.ga">
+<a href="https://nakatai.xyz">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
 <a href="https://go.nakatai.ga/devto">
