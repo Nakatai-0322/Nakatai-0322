@@ -20,6 +20,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
+## GitHub Public Key
+
+- [3F1BBE197B8733F8](https://pubkey.nakatai.xyz/540F655267B71F2992860C863F1BBE197B8733F8.gpg)
+- [CB046803460BB5AA](https://pubkey.nakatai.xyz/734D74D5BD792EDF6C2EC214CB046803460BB5AA.gpg)
+
 ## At First
 
 Hi, there!
