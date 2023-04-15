@@ -68,9 +68,6 @@ Nice to meet you.
 <a href="https://w.wiki/3e6S">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50">
 </a>
-<a href="https://w.wiki/5EZM">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="50">
-</a>
 
 ### I am learning...
 
@@ -100,6 +97,9 @@ Nice to meet you.
 </a>
 <a href="https://w.wiki/45PM">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+</a>
+<a href="https://w.wiki/5EZM">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="50">
 </a>
 
 ## Badges
