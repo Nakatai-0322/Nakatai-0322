@@ -228,9 +228,9 @@ CSS                      2 repos             █░░░░░░░░░░�
     <img src="https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay" width="100">
 </a>
 
-ブログ・ホームページ:<https://nakatai.ga>
+ブログ・ホームページ:<https://nakatai.xyz>
 
-ポートフォリオ:<https://portfolio.nakatai.ga>
+ポートフォリオ:<https://portfolio.nakatai.xyz>
 
 Twitter:<https://go.nakatai.ga/twitter>
 
