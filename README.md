@@ -13,10 +13,7 @@
 <a href="https://nakatai.xyz">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
-<a href="https://go.nakatai.ga/devto">
-    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" width="50">
-</a>
-<a href="https://go.nakatai.ga/twitter">
+<a href="https://nakatai.ml/twitter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
