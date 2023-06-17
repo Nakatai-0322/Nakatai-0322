@@ -1,8 +1,8 @@
 # Nakatai_0322
 
-<img src="https://cdn.nakatai.ga/img/nakatai.webp" width="200"> / <img src="https://cdn.nakatai.ga/img/nakataimc.webp" width="200">
+<img src="https://cdn.nakatai.xyz/img/nakatai.webp" width="200"> / <img src="https://cdn.nakatai.xyz/img/nakataimc.webp" width="200">
 
-<a href="https://go.nakatai.ga/twitter">
+<a href="https://go.nakatai.xyz/twitter">
     <img src="https://i.imgur.com/otNWSpt.jpg" alt="Twitter Banner" width="500">
 </a>
 
@@ -13,7 +13,7 @@
 <a href="https://nakatai.xyz">
     <img src="https://i.imgur.com/HrGRBcm.png" width="50">
 </a>
-<a href="https://nakatai.ml/twitter">
+<a href="https://go.nakatai.xyz/twitter">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50">
 </a>
 
@@ -107,15 +107,15 @@ Nice to meet you.
 
 ## 自己紹介
 
-個人的な自己紹介は、[こちら](https://go.nakatai.ga/pr)を参照
+個人的な自己紹介は、[こちら](https://go.nakatai.xyz/pr)を参照
 
-ポートフォリオは、[こちら](https://portfolio.nakatai.ga)です。
+ポートフォリオは、[こちら](https://portfolio.nakatai.xyz)です。
 
 [FREESERVER](https://freeserver.pro)運営としての自己紹介は、[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)です。
 
 ## GitHubプロフィール
 
-[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://wakatime.com/@Nakatai_0322)
+[![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://go.nakatai.xyz/wakatime)
 
 [<img width="400" alt="general" src="/general.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/general.svg)
 [<img width="400" alt="medias" src="/medias.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/medias.svg)
@@ -221,7 +221,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ## 連絡先
 
-<a href="https://go.nakatai.ga/namemc">
+<a href="https://go.nakatai.xyz/namemc">
     <img src="https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay" width="100">
 </a>
 
@@ -229,19 +229,19 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ポートフォリオ:<https://portfolio.nakatai.xyz>
 
-Twitter:<https://go.nakatai.ga/twitter>
+Twitter:<https://go.nakatai.xyz/twitter>
 
-プロフ:<https://go.nakatai.ga/pr>
+プロフ:<https://go.nakatai.xyz/pr>
 
-GitHub:<https://go.nakatai.ga/github>
+GitHub:<https://go.nakatai.xyz/github>
 
-WakaTime:<https://go.nakatai.ga/wakatime>
+WakaTime:<https://go.nakatai.xyz/wakatime>
 
 メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
 
-Discord:[`Nakatai_0322#6872`](https://go.nakatai.ga/discord)
+Discord:[`Nakatai_0322#6872`](https://go.nakatai.xyz/discord)
 
-MCID:[`Nakatai_0322`](https://go.nakatai.ga/namemc)
+MCID:[`Nakatai_0322`](https://go.nakatai.xyz/namemc)
 
 ## About Repo
 
