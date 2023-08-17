@@ -142,7 +142,7 @@ Nice to meet you.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20million%20lines%20of%20code-blue)
 
@@ -185,15 +185,13 @@ Sunday                   5841 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Git Config               23 mins             ██████████████████░░░░░░░   72.87 % 
-Python                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -209,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2023 04:16:55 UTC
+ Last Updated on 17/08/2023 04:17:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
