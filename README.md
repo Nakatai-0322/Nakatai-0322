@@ -142,7 +142,7 @@ Nice to meet you.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-blue)
 
@@ -185,17 +185,13 @@ Sunday                   6237 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        █████████████░░░░░░░░░░░░   51.70 % 
-Python                   1 hr 23 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -211,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2023 04:18:19 UTC
+ Last Updated on 10/09/2023 04:17:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
