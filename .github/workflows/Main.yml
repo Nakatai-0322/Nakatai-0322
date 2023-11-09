@@ -54,11 +54,11 @@ jobs:
           config_timezone: Asia/Tokyo
           config_order: anilist, music
           plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          plugin_music_provider: youtube
+          plugin_music_token: ${{ secrets.ytm_cookie }}
           plugin_music_mode: recent
           plugin_music_played_at: yes
-          plugin_music_limit: 9
+          plugin_music_limit: 10
           plugin_rss: yes
           plugin_rss_source: https://nakatai.xyz/rss.xml
           plugin_rss_limit: 8
