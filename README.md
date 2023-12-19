@@ -218,7 +218,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ## 連絡先
 
 <a href="https://go.nakatai.xyz/namemc">
-    <img src="https://crafatar.com/renders/body/d297f52003024e5d944fd78edc82891a?&overlay" width="100">
+    <img src="https://cdn.nakatai.xyz/img/d297f52003024e5d944fd78edc82891a-body.png" width="100">
 </a>
 
 ブログ・ホームページ:<https://nakatai.xyz>
