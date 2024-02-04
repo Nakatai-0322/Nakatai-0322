@@ -233,7 +233,7 @@ GitHub:<https://go.nakatai.xyz/github>
 
 WakaTime:<https://go.nakatai.xyz/wakatime>
 
-メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
+メールアドレス:[info@nakatai.xyz](mailto:info@nakatai.xyz)
 
 Discord:[`Nakatai_0322#6872`](https://go.nakatai.xyz/discord)
 
