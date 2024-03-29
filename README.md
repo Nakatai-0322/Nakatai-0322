@@ -98,10 +98,10 @@ Nice to meet you.
 
 ## Badges
 
-[![GitHub Badge](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://go.nakatai.ga/github)
-[![GitHub Badge](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://go.nakatai.ga/github)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://go.nakatai.ga/twitter)
-[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://go.nakatai.ga/youtube)
+[![GitHub Badge](https://img.shields.io/github/followers/Nakatai-0322?style=social)](https://go.nakatai.xyz/github)
+[![GitHub Badge](https://img.shields.io/github/stars/Nakatai-0322?style=social)](https://go.nakatai.xyz/github)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Nakatai_0322?style=social)](https://go.nakatai.xyz/twitter)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCvH9fbiZUk0DT39BPE9gNhw?style=social)](https://go.nakatai.xyz/youtube)
 
 [![Discord Badge](https://img.shields.io/badge/Nakatai_0322%236872-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/584692865939275779)
 
@@ -213,7 +213,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 ## 所属団体
 
-[こちら](https://go.nakatai.ga/orgs)をご覧ください。
+[こちら](https://go.nakatai.xyz/orgs)をご覧ください。
 
 ## 連絡先
 
@@ -233,7 +233,7 @@ GitHub:<https://go.nakatai.xyz/github>
 
 WakaTime:<https://go.nakatai.xyz/wakatime>
 
-メールアドレス:[info@nakatai.ga](mailto:info@nakatai.ga)
+メールアドレス:[info@nakatai.xyz](mailto:info@nakatai.xyz)
 
 Discord:[`Nakatai_0322#6872`](https://go.nakatai.xyz/discord)
 
