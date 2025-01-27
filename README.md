@@ -225,8 +225,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 Twitter:<https://go.nakatai.xyz/twitter>
 
-プロフ:<https://go.nakatai.xyz/pr>
-
 GitHub:<https://go.nakatai.xyz/github>
 
 WakaTime:<https://go.nakatai.xyz/wakatime>
