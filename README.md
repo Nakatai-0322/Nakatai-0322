@@ -107,8 +107,6 @@ Nice to meet you.
 
 ## 自己紹介
 
-個人的な自己紹介は、[こちら](https://go.nakatai.xyz/pr)を参照
-
 ポートフォリオは、[こちら](https://portfolio.nakatai.xyz)です。
 
 [FREESERVER](https://freeserver.pro)運営としての自己紹介は、[こちら](https://wiki.freeserver.pro/admins/nakatai_0322.html)です。
