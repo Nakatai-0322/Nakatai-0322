@@ -110,63 +110,7 @@ Nice to meet you.
 
 [![Wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1.svg)](https://go.nakatai.xyz/wakatime)
 
-[<img width="400" alt="general" src="/general.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/general.svg)
-[<img width="400" alt="medias" src="/medias.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/medias.svg)
-[<img width="400" alt="achievements" src="/achievements.svg">](https://raw.githubusercontent.com/Nakatai-0322/Nakatai-0322/main/achievements.svg)
 
-| [<img align="center" width="400" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=radical">](https://github-readme-stats.vercel.app/api?username=Nakatai-0322&show_icons=true&theme=radical)| [<img align="center" width="300" alt="Nakatai's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&layout=compact&theme=radical">](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakatai-0322&langs_count=10&layout=compact&theme=radical) |
-| --- | --- |
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nakatai-0322&theme=github-dark&date_format=%5BY.%5Dn.j&theme=dark" alt="GitHub Streak">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=discord&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Nakatai-0322&theme=discord&no-frame=true)
-
-
-<details>
-<summary>
-    詳細なステータス
-</summary>
-
-<a href="https://wakatime.com/share/@Nakatai_0322/acc10104-c7ee-4745-bfdb-ec0133eb3cbd.svg">
-    <img src="https://wakatime.com/share/@Nakatai_0322/2bf48539-cc4a-4f69-a2c7-177457d591e6.svg" width="600">
-</a>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.2%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🏆 488 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 69 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I Mostly Code in HTML** 
-
-```text
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-
-
-
-
- Last Updated on 08/08/2025 04:45:59 UTC
-<!--END_SECTION:waka-->
-</details>
 
 ## 所属団体
 
